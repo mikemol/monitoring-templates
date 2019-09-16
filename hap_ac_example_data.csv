@@ -1,0 +1,1328 @@
+"SNMPv2-MIB::sysDescr.0","iso.3.6.1.2.1.1.1.0","STRING","RouterOS RB962UiGS-5HacT2HnT"
+"SNMPv2-MIB::sysObjectID.0","iso.3.6.1.2.1.1.2.0","OID","iso.3.6.1.4.1.14988.1"
+"DISMAN-EXPRESSION-MIB::sysUpTimeInstance","iso.3.6.1.2.1.1.3.0","Timeticks","(100756100) 11 days, 15:52:41.00"
+"SNMPv2-MIB::sysContact.0","iso.3.6.1.2.1.1.4.0",,
+"SNMPv2-MIB::sysName.0","iso.3.6.1.2.1.1.5.0","STRING","hap8890"
+"SNMPv2-MIB::sysLocation.0","iso.3.6.1.2.1.1.6.0",,
+"SNMPv2-MIB::sysServices.0","iso.3.6.1.2.1.1.7.0","INTEGER",78
+"IF-MIB::ifNumber.0","iso.3.6.1.2.1.2.1.0","INTEGER",15
+"IF-MIB::ifIndex.1","iso.3.6.1.2.1.2.2.1.1.1","INTEGER",1
+"IF-MIB::ifIndex.2","iso.3.6.1.2.1.2.2.1.1.2","INTEGER",2
+"IF-MIB::ifIndex.3","iso.3.6.1.2.1.2.2.1.1.3","INTEGER",3
+"IF-MIB::ifIndex.4","iso.3.6.1.2.1.2.2.1.1.4","INTEGER",4
+"IF-MIB::ifIndex.5","iso.3.6.1.2.1.2.2.1.1.5","INTEGER",5
+"IF-MIB::ifIndex.6","iso.3.6.1.2.1.2.2.1.1.6","INTEGER",6
+"IF-MIB::ifIndex.7","iso.3.6.1.2.1.2.2.1.1.7","INTEGER",7
+"IF-MIB::ifIndex.8","iso.3.6.1.2.1.2.2.1.1.8","INTEGER",8
+"IF-MIB::ifIndex.9","iso.3.6.1.2.1.2.2.1.1.9","INTEGER",9
+"IF-MIB::ifIndex.10","iso.3.6.1.2.1.2.2.1.1.10","INTEGER",10
+"IF-MIB::ifIndex.11","iso.3.6.1.2.1.2.2.1.1.11","INTEGER",11
+"IF-MIB::ifIndex.180","iso.3.6.1.2.1.2.2.1.1.180","INTEGER",180
+"IF-MIB::ifIndex.181","iso.3.6.1.2.1.2.2.1.1.181","INTEGER",181
+"IF-MIB::ifIndex.186","iso.3.6.1.2.1.2.2.1.1.186","INTEGER",186
+"IF-MIB::ifIndex.187","iso.3.6.1.2.1.2.2.1.1.187","INTEGER",187
+"IF-MIB::ifDescr.1","iso.3.6.1.2.1.2.2.1.2.1","STRING","wlan1"
+"IF-MIB::ifDescr.2","iso.3.6.1.2.1.2.2.1.2.2","STRING","ether1"
+"IF-MIB::ifDescr.3","iso.3.6.1.2.1.2.2.1.2.3","STRING","ether2"
+"IF-MIB::ifDescr.4","iso.3.6.1.2.1.2.2.1.2.4","STRING","ether3"
+"IF-MIB::ifDescr.5","iso.3.6.1.2.1.2.2.1.2.5","STRING","ether4"
+"IF-MIB::ifDescr.6","iso.3.6.1.2.1.2.2.1.2.6","STRING","ether5"
+"IF-MIB::ifDescr.7","iso.3.6.1.2.1.2.2.1.2.7","STRING","sfp1"
+"IF-MIB::ifDescr.8","iso.3.6.1.2.1.2.2.1.2.8","STRING","wlan2"
+"IF-MIB::ifDescr.9","iso.3.6.1.2.1.2.2.1.2.9","STRING","bridge-local"
+"IF-MIB::ifDescr.10","iso.3.6.1.2.1.2.2.1.2.10","STRING","24--hap8890-1"
+"IF-MIB::ifDescr.11","iso.3.6.1.2.1.2.2.1.2.11","STRING","5--hap8890-1"
+"IF-MIB::ifDescr.180","iso.3.6.1.2.1.2.2.1.2.180","STRING","24--hap5f6b-1"
+"IF-MIB::ifDescr.181","iso.3.6.1.2.1.2.2.1.2.181","STRING","5--hap5f6b-1"
+"IF-MIB::ifDescr.186","iso.3.6.1.2.1.2.2.1.2.186","STRING","24--hap26a3-1"
+"IF-MIB::ifDescr.187","iso.3.6.1.2.1.2.2.1.2.187","STRING","5--hap26a3-1"
+"IF-MIB::ifType.1","iso.3.6.1.2.1.2.2.1.3.1","INTEGER",71
+"IF-MIB::ifType.2","iso.3.6.1.2.1.2.2.1.3.2","INTEGER",6
+"IF-MIB::ifType.3","iso.3.6.1.2.1.2.2.1.3.3","INTEGER",6
+"IF-MIB::ifType.4","iso.3.6.1.2.1.2.2.1.3.4","INTEGER",6
+"IF-MIB::ifType.5","iso.3.6.1.2.1.2.2.1.3.5","INTEGER",6
+"IF-MIB::ifType.6","iso.3.6.1.2.1.2.2.1.3.6","INTEGER",6
+"IF-MIB::ifType.7","iso.3.6.1.2.1.2.2.1.3.7","INTEGER",6
+"IF-MIB::ifType.8","iso.3.6.1.2.1.2.2.1.3.8","INTEGER",71
+"IF-MIB::ifType.9","iso.3.6.1.2.1.2.2.1.3.9","INTEGER",209
+"IF-MIB::ifType.10","iso.3.6.1.2.1.2.2.1.3.10","INTEGER",1
+"IF-MIB::ifType.11","iso.3.6.1.2.1.2.2.1.3.11","INTEGER",1
+"IF-MIB::ifType.180","iso.3.6.1.2.1.2.2.1.3.180","INTEGER",1
+"IF-MIB::ifType.181","iso.3.6.1.2.1.2.2.1.3.181","INTEGER",1
+"IF-MIB::ifType.186","iso.3.6.1.2.1.2.2.1.3.186","INTEGER",1
+"IF-MIB::ifType.187","iso.3.6.1.2.1.2.2.1.3.187","INTEGER",1
+"IF-MIB::ifMtu.1","iso.3.6.1.2.1.2.2.1.4.1","INTEGER",1500
+"IF-MIB::ifMtu.2","iso.3.6.1.2.1.2.2.1.4.2","INTEGER",1500
+"IF-MIB::ifMtu.3","iso.3.6.1.2.1.2.2.1.4.3","INTEGER",1500
+"IF-MIB::ifMtu.4","iso.3.6.1.2.1.2.2.1.4.4","INTEGER",1500
+"IF-MIB::ifMtu.5","iso.3.6.1.2.1.2.2.1.4.5","INTEGER",1500
+"IF-MIB::ifMtu.6","iso.3.6.1.2.1.2.2.1.4.6","INTEGER",1500
+"IF-MIB::ifMtu.7","iso.3.6.1.2.1.2.2.1.4.7","INTEGER",1500
+"IF-MIB::ifMtu.8","iso.3.6.1.2.1.2.2.1.4.8","INTEGER",1500
+"IF-MIB::ifMtu.9","iso.3.6.1.2.1.2.2.1.4.9","INTEGER",1500
+"IF-MIB::ifMtu.10","iso.3.6.1.2.1.2.2.1.4.10","INTEGER",1500
+"IF-MIB::ifMtu.11","iso.3.6.1.2.1.2.2.1.4.11","INTEGER",1500
+"IF-MIB::ifMtu.180","iso.3.6.1.2.1.2.2.1.4.180","INTEGER",1500
+"IF-MIB::ifMtu.181","iso.3.6.1.2.1.2.2.1.4.181","INTEGER",1500
+"IF-MIB::ifMtu.186","iso.3.6.1.2.1.2.2.1.4.186","INTEGER",1500
+"IF-MIB::ifMtu.187","iso.3.6.1.2.1.2.2.1.4.187","INTEGER",1500
+"IF-MIB::ifSpeed.1","iso.3.6.1.2.1.2.2.1.5.1","Gauge32",50000000
+"IF-MIB::ifSpeed.2","iso.3.6.1.2.1.2.2.1.5.2","Gauge32",1000000000
+"IF-MIB::ifSpeed.3","iso.3.6.1.2.1.2.2.1.5.3","Gauge32",0
+"IF-MIB::ifSpeed.4","iso.3.6.1.2.1.2.2.1.5.4","Gauge32",0
+"IF-MIB::ifSpeed.5","iso.3.6.1.2.1.2.2.1.5.5","Gauge32",1000000000
+"IF-MIB::ifSpeed.6","iso.3.6.1.2.1.2.2.1.5.6","Gauge32",100000000
+"IF-MIB::ifSpeed.7","iso.3.6.1.2.1.2.2.1.5.7","Gauge32",0
+"IF-MIB::ifSpeed.8","iso.3.6.1.2.1.2.2.1.5.8","Gauge32",50000000
+"IF-MIB::ifSpeed.9","iso.3.6.1.2.1.2.2.1.5.9","Gauge32",0
+"IF-MIB::ifSpeed.10","iso.3.6.1.2.1.2.2.1.5.10","Gauge32",10000000
+"IF-MIB::ifSpeed.11","iso.3.6.1.2.1.2.2.1.5.11","Gauge32",10000000
+"IF-MIB::ifSpeed.180","iso.3.6.1.2.1.2.2.1.5.180","Gauge32",10000000
+"IF-MIB::ifSpeed.181","iso.3.6.1.2.1.2.2.1.5.181","Gauge32",10000000
+"IF-MIB::ifSpeed.186","iso.3.6.1.2.1.2.2.1.5.186","Gauge32",10000000
+"IF-MIB::ifSpeed.187","iso.3.6.1.2.1.2.2.1.5.187","Gauge32",10000000
+"IF-MIB::ifPhysAddress.1","iso.3.6.1.2.1.2.2.1.6.1","Hex-STRING","Hex-64 D1 54 43 88 97"
+"IF-MIB::ifPhysAddress.2","iso.3.6.1.2.1.2.2.1.6.2","Hex-STRING","Hex-64 D1 54 43 88 90"
+"IF-MIB::ifPhysAddress.3","iso.3.6.1.2.1.2.2.1.6.3","Hex-STRING","Hex-64 D1 54 43 88 91"
+"IF-MIB::ifPhysAddress.4","iso.3.6.1.2.1.2.2.1.6.4","Hex-STRING","Hex-64 D1 54 43 88 92"
+"IF-MIB::ifPhysAddress.5","iso.3.6.1.2.1.2.2.1.6.5","Hex-STRING","Hex-64 D1 54 43 88 93"
+"IF-MIB::ifPhysAddress.6","iso.3.6.1.2.1.2.2.1.6.6","Hex-STRING","Hex-64 D1 54 43 88 94"
+"IF-MIB::ifPhysAddress.7","iso.3.6.1.2.1.2.2.1.6.7","Hex-STRING","Hex-64 D1 54 43 88 95"
+"IF-MIB::ifPhysAddress.8","iso.3.6.1.2.1.2.2.1.6.8","Hex-STRING","Hex-64 D1 54 43 88 96"
+"IF-MIB::ifPhysAddress.9","iso.3.6.1.2.1.2.2.1.6.9","Hex-STRING","Hex-64 D1 54 43 88 91"
+"IF-MIB::ifPhysAddress.10","iso.3.6.1.2.1.2.2.1.6.10","Hex-STRING","Hex-64 D1 54 43 88 97"
+"IF-MIB::ifPhysAddress.11","iso.3.6.1.2.1.2.2.1.6.11","Hex-STRING","Hex-64 D1 54 43 88 96"
+"IF-MIB::ifPhysAddress.180","iso.3.6.1.2.1.2.2.1.6.180","Hex-STRING","Hex-B8 69 F4 D6 5F 71"
+"IF-MIB::ifPhysAddress.181","iso.3.6.1.2.1.2.2.1.6.181","Hex-STRING","Hex-B8 69 F4 D6 5F 70"
+"IF-MIB::ifPhysAddress.186","iso.3.6.1.2.1.2.2.1.6.186","Hex-STRING","Hex-CC 2D E0 1D 26 A3"
+"IF-MIB::ifPhysAddress.187","iso.3.6.1.2.1.2.2.1.6.187","Hex-STRING","Hex-CC 2D E0 1D 26 A2"
+"IF-MIB::ifAdminStatus.1","iso.3.6.1.2.1.2.2.1.7.1","INTEGER",1
+"IF-MIB::ifAdminStatus.2","iso.3.6.1.2.1.2.2.1.7.2","INTEGER",1
+"IF-MIB::ifAdminStatus.3","iso.3.6.1.2.1.2.2.1.7.3","INTEGER",1
+"IF-MIB::ifAdminStatus.4","iso.3.6.1.2.1.2.2.1.7.4","INTEGER",1
+"IF-MIB::ifAdminStatus.5","iso.3.6.1.2.1.2.2.1.7.5","INTEGER",1
+"IF-MIB::ifAdminStatus.6","iso.3.6.1.2.1.2.2.1.7.6","INTEGER",1
+"IF-MIB::ifAdminStatus.7","iso.3.6.1.2.1.2.2.1.7.7","INTEGER",1
+"IF-MIB::ifAdminStatus.8","iso.3.6.1.2.1.2.2.1.7.8","INTEGER",1
+"IF-MIB::ifAdminStatus.9","iso.3.6.1.2.1.2.2.1.7.9","INTEGER",1
+"IF-MIB::ifAdminStatus.10","iso.3.6.1.2.1.2.2.1.7.10","INTEGER",1
+"IF-MIB::ifAdminStatus.11","iso.3.6.1.2.1.2.2.1.7.11","INTEGER",1
+"IF-MIB::ifAdminStatus.180","iso.3.6.1.2.1.2.2.1.7.180","INTEGER",1
+"IF-MIB::ifAdminStatus.181","iso.3.6.1.2.1.2.2.1.7.181","INTEGER",1
+"IF-MIB::ifAdminStatus.186","iso.3.6.1.2.1.2.2.1.7.186","INTEGER",1
+"IF-MIB::ifAdminStatus.187","iso.3.6.1.2.1.2.2.1.7.187","INTEGER",1
+"IF-MIB::ifOperStatus.1","iso.3.6.1.2.1.2.2.1.8.1","INTEGER",1
+"IF-MIB::ifOperStatus.2","iso.3.6.1.2.1.2.2.1.8.2","INTEGER",1
+"IF-MIB::ifOperStatus.3","iso.3.6.1.2.1.2.2.1.8.3","INTEGER",2
+"IF-MIB::ifOperStatus.4","iso.3.6.1.2.1.2.2.1.8.4","INTEGER",2
+"IF-MIB::ifOperStatus.5","iso.3.6.1.2.1.2.2.1.8.5","INTEGER",1
+"IF-MIB::ifOperStatus.6","iso.3.6.1.2.1.2.2.1.8.6","INTEGER",1
+"IF-MIB::ifOperStatus.7","iso.3.6.1.2.1.2.2.1.8.7","INTEGER",2
+"IF-MIB::ifOperStatus.8","iso.3.6.1.2.1.2.2.1.8.8","INTEGER",1
+"IF-MIB::ifOperStatus.9","iso.3.6.1.2.1.2.2.1.8.9","INTEGER",1
+"IF-MIB::ifOperStatus.10","iso.3.6.1.2.1.2.2.1.8.10","INTEGER",2
+"IF-MIB::ifOperStatus.11","iso.3.6.1.2.1.2.2.1.8.11","INTEGER",1
+"IF-MIB::ifOperStatus.180","iso.3.6.1.2.1.2.2.1.8.180","INTEGER",2
+"IF-MIB::ifOperStatus.181","iso.3.6.1.2.1.2.2.1.8.181","INTEGER",1
+"IF-MIB::ifOperStatus.186","iso.3.6.1.2.1.2.2.1.8.186","INTEGER",2
+"IF-MIB::ifOperStatus.187","iso.3.6.1.2.1.2.2.1.8.187","INTEGER",1
+"IF-MIB::ifLastChange.1","iso.3.6.1.2.1.2.2.1.9.1","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.2","iso.3.6.1.2.1.2.2.1.9.2","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.3","iso.3.6.1.2.1.2.2.1.9.3","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.4","iso.3.6.1.2.1.2.2.1.9.4","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.5","iso.3.6.1.2.1.2.2.1.9.5","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.6","iso.3.6.1.2.1.2.2.1.9.6","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.7","iso.3.6.1.2.1.2.2.1.9.7","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.8","iso.3.6.1.2.1.2.2.1.9.8","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.9","iso.3.6.1.2.1.2.2.1.9.9","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.10","iso.3.6.1.2.1.2.2.1.9.10","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.11","iso.3.6.1.2.1.2.2.1.9.11","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.180","iso.3.6.1.2.1.2.2.1.9.180","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.181","iso.3.6.1.2.1.2.2.1.9.181","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.186","iso.3.6.1.2.1.2.2.1.9.186","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifLastChange.187","iso.3.6.1.2.1.2.2.1.9.187","Timeticks","(0) 0:00:00.00"
+"IF-MIB::ifInOctets.1","iso.3.6.1.2.1.2.2.1.10.1","Counter32",137884741
+"IF-MIB::ifInOctets.2","iso.3.6.1.2.1.2.2.1.10.2","Counter32",3281248963
+"IF-MIB::ifInOctets.3","iso.3.6.1.2.1.2.2.1.10.3","Counter32",216258471
+"IF-MIB::ifInOctets.4","iso.3.6.1.2.1.2.2.1.10.4","Counter32",0
+"IF-MIB::ifInOctets.5","iso.3.6.1.2.1.2.2.1.10.5","Counter32",1150096918
+"IF-MIB::ifInOctets.6","iso.3.6.1.2.1.2.2.1.10.6","Counter32",2124315058
+"IF-MIB::ifInOctets.7","iso.3.6.1.2.1.2.2.1.10.7","Counter32",0
+"IF-MIB::ifInOctets.8","iso.3.6.1.2.1.2.2.1.10.8","Counter32",4212782203
+"IF-MIB::ifInOctets.9","iso.3.6.1.2.1.2.2.1.10.9","Counter32",816142195
+"IF-MIB::ifInOctets.10","iso.3.6.1.2.1.2.2.1.10.10","Counter32",0
+"IF-MIB::ifInOctets.11","iso.3.6.1.2.1.2.2.1.10.11","Counter32",0
+"IF-MIB::ifInOctets.180","iso.3.6.1.2.1.2.2.1.10.180","Counter32",0
+"IF-MIB::ifInOctets.181","iso.3.6.1.2.1.2.2.1.10.181","Counter32",0
+"IF-MIB::ifInOctets.186","iso.3.6.1.2.1.2.2.1.10.186","Counter32",0
+"IF-MIB::ifInOctets.187","iso.3.6.1.2.1.2.2.1.10.187","Counter32",0
+"IF-MIB::ifInUcastPkts.1","iso.3.6.1.2.1.2.2.1.11.1","Counter32",1180217
+"IF-MIB::ifInUcastPkts.2","iso.3.6.1.2.1.2.2.1.11.2","Counter32",116817964
+"IF-MIB::ifInUcastPkts.3","iso.3.6.1.2.1.2.2.1.11.3","Counter32",2836406
+"IF-MIB::ifInUcastPkts.4","iso.3.6.1.2.1.2.2.1.11.4","Counter32",0
+"IF-MIB::ifInUcastPkts.5","iso.3.6.1.2.1.2.2.1.11.5","Counter32",25450636
+"IF-MIB::ifInUcastPkts.6","iso.3.6.1.2.1.2.2.1.11.6","Counter32",13840073
+"IF-MIB::ifInUcastPkts.7","iso.3.6.1.2.1.2.2.1.11.7","Counter32",0
+"IF-MIB::ifInUcastPkts.8","iso.3.6.1.2.1.2.2.1.11.8","Counter32",34723662
+"IF-MIB::ifInUcastPkts.9","iso.3.6.1.2.1.2.2.1.11.9","Counter32",61515242
+"IF-MIB::ifInUcastPkts.10","iso.3.6.1.2.1.2.2.1.11.10","Counter32",0
+"IF-MIB::ifInUcastPkts.11","iso.3.6.1.2.1.2.2.1.11.11","Counter32",0
+"IF-MIB::ifInUcastPkts.180","iso.3.6.1.2.1.2.2.1.11.180","Counter32",0
+"IF-MIB::ifInUcastPkts.181","iso.3.6.1.2.1.2.2.1.11.181","Counter32",0
+"IF-MIB::ifInUcastPkts.186","iso.3.6.1.2.1.2.2.1.11.186","Counter32",0
+"IF-MIB::ifInUcastPkts.187","iso.3.6.1.2.1.2.2.1.11.187","Counter32",0
+"IF-MIB::ifInNUcastPkts.1","iso.3.6.1.2.1.2.2.1.12.1","Counter32",0
+"IF-MIB::ifInNUcastPkts.2","iso.3.6.1.2.1.2.2.1.12.2","Counter32",0
+"IF-MIB::ifInNUcastPkts.3","iso.3.6.1.2.1.2.2.1.12.3","Counter32",0
+"IF-MIB::ifInNUcastPkts.4","iso.3.6.1.2.1.2.2.1.12.4","Counter32",0
+"IF-MIB::ifInNUcastPkts.5","iso.3.6.1.2.1.2.2.1.12.5","Counter32",0
+"IF-MIB::ifInNUcastPkts.6","iso.3.6.1.2.1.2.2.1.12.6","Counter32",0
+"IF-MIB::ifInNUcastPkts.7","iso.3.6.1.2.1.2.2.1.12.7","Counter32",0
+"IF-MIB::ifInNUcastPkts.8","iso.3.6.1.2.1.2.2.1.12.8","Counter32",0
+"IF-MIB::ifInNUcastPkts.9","iso.3.6.1.2.1.2.2.1.12.9","Counter32",0
+"IF-MIB::ifInNUcastPkts.10","iso.3.6.1.2.1.2.2.1.12.10","Counter32",0
+"IF-MIB::ifInNUcastPkts.11","iso.3.6.1.2.1.2.2.1.12.11","Counter32",0
+"IF-MIB::ifInNUcastPkts.180","iso.3.6.1.2.1.2.2.1.12.180","Counter32",0
+"IF-MIB::ifInNUcastPkts.181","iso.3.6.1.2.1.2.2.1.12.181","Counter32",0
+"IF-MIB::ifInNUcastPkts.186","iso.3.6.1.2.1.2.2.1.12.186","Counter32",0
+"IF-MIB::ifInNUcastPkts.187","iso.3.6.1.2.1.2.2.1.12.187","Counter32",0
+"IF-MIB::ifInDiscards.1","iso.3.6.1.2.1.2.2.1.13.1","Counter32",0
+"IF-MIB::ifInDiscards.2","iso.3.6.1.2.1.2.2.1.13.2","Counter32",0
+"IF-MIB::ifInDiscards.3","iso.3.6.1.2.1.2.2.1.13.3","Counter32",0
+"IF-MIB::ifInDiscards.4","iso.3.6.1.2.1.2.2.1.13.4","Counter32",0
+"IF-MIB::ifInDiscards.5","iso.3.6.1.2.1.2.2.1.13.5","Counter32",0
+"IF-MIB::ifInDiscards.6","iso.3.6.1.2.1.2.2.1.13.6","Counter32",0
+"IF-MIB::ifInDiscards.7","iso.3.6.1.2.1.2.2.1.13.7","Counter32",0
+"IF-MIB::ifInDiscards.8","iso.3.6.1.2.1.2.2.1.13.8","Counter32",0
+"IF-MIB::ifInDiscards.9","iso.3.6.1.2.1.2.2.1.13.9","Counter32",0
+"IF-MIB::ifInDiscards.10","iso.3.6.1.2.1.2.2.1.13.10","Counter32",0
+"IF-MIB::ifInDiscards.11","iso.3.6.1.2.1.2.2.1.13.11","Counter32",0
+"IF-MIB::ifInDiscards.180","iso.3.6.1.2.1.2.2.1.13.180","Counter32",0
+"IF-MIB::ifInDiscards.181","iso.3.6.1.2.1.2.2.1.13.181","Counter32",0
+"IF-MIB::ifInDiscards.186","iso.3.6.1.2.1.2.2.1.13.186","Counter32",0
+"IF-MIB::ifInDiscards.187","iso.3.6.1.2.1.2.2.1.13.187","Counter32",0
+"IF-MIB::ifInErrors.1","iso.3.6.1.2.1.2.2.1.14.1","Counter32",0
+"IF-MIB::ifInErrors.2","iso.3.6.1.2.1.2.2.1.14.2","Counter32",0
+"IF-MIB::ifInErrors.3","iso.3.6.1.2.1.2.2.1.14.3","Counter32",0
+"IF-MIB::ifInErrors.4","iso.3.6.1.2.1.2.2.1.14.4","Counter32",0
+"IF-MIB::ifInErrors.5","iso.3.6.1.2.1.2.2.1.14.5","Counter32",0
+"IF-MIB::ifInErrors.6","iso.3.6.1.2.1.2.2.1.14.6","Counter32",0
+"IF-MIB::ifInErrors.7","iso.3.6.1.2.1.2.2.1.14.7","Counter32",0
+"IF-MIB::ifInErrors.8","iso.3.6.1.2.1.2.2.1.14.8","Counter32",0
+"IF-MIB::ifInErrors.9","iso.3.6.1.2.1.2.2.1.14.9","Counter32",0
+"IF-MIB::ifInErrors.10","iso.3.6.1.2.1.2.2.1.14.10","Counter32",0
+"IF-MIB::ifInErrors.11","iso.3.6.1.2.1.2.2.1.14.11","Counter32",0
+"IF-MIB::ifInErrors.180","iso.3.6.1.2.1.2.2.1.14.180","Counter32",0
+"IF-MIB::ifInErrors.181","iso.3.6.1.2.1.2.2.1.14.181","Counter32",0
+"IF-MIB::ifInErrors.186","iso.3.6.1.2.1.2.2.1.14.186","Counter32",0
+"IF-MIB::ifInErrors.187","iso.3.6.1.2.1.2.2.1.14.187","Counter32",0
+"IF-MIB::ifInUnknownProtos.1","iso.3.6.1.2.1.2.2.1.15.1","Counter32",0
+"IF-MIB::ifInUnknownProtos.2","iso.3.6.1.2.1.2.2.1.15.2","Counter32",0
+"IF-MIB::ifInUnknownProtos.3","iso.3.6.1.2.1.2.2.1.15.3","Counter32",0
+"IF-MIB::ifInUnknownProtos.4","iso.3.6.1.2.1.2.2.1.15.4","Counter32",0
+"IF-MIB::ifInUnknownProtos.5","iso.3.6.1.2.1.2.2.1.15.5","Counter32",0
+"IF-MIB::ifInUnknownProtos.6","iso.3.6.1.2.1.2.2.1.15.6","Counter32",0
+"IF-MIB::ifInUnknownProtos.7","iso.3.6.1.2.1.2.2.1.15.7","Counter32",0
+"IF-MIB::ifInUnknownProtos.8","iso.3.6.1.2.1.2.2.1.15.8","Counter32",0
+"IF-MIB::ifInUnknownProtos.9","iso.3.6.1.2.1.2.2.1.15.9","Counter32",0
+"IF-MIB::ifInUnknownProtos.10","iso.3.6.1.2.1.2.2.1.15.10","Counter32",0
+"IF-MIB::ifInUnknownProtos.11","iso.3.6.1.2.1.2.2.1.15.11","Counter32",0
+"IF-MIB::ifInUnknownProtos.180","iso.3.6.1.2.1.2.2.1.15.180","Counter32",0
+"IF-MIB::ifInUnknownProtos.181","iso.3.6.1.2.1.2.2.1.15.181","Counter32",0
+"IF-MIB::ifInUnknownProtos.186","iso.3.6.1.2.1.2.2.1.15.186","Counter32",0
+"IF-MIB::ifInUnknownProtos.187","iso.3.6.1.2.1.2.2.1.15.187","Counter32",0
+"IF-MIB::ifOutOctets.1","iso.3.6.1.2.1.2.2.1.16.1","Counter32",1197997103
+"IF-MIB::ifOutOctets.2","iso.3.6.1.2.1.2.2.1.16.2","Counter32",3847768357
+"IF-MIB::ifOutOctets.3","iso.3.6.1.2.1.2.2.1.16.3","Counter32",1884808305
+"IF-MIB::ifOutOctets.4","iso.3.6.1.2.1.2.2.1.16.4","Counter32",0
+"IF-MIB::ifOutOctets.5","iso.3.6.1.2.1.2.2.1.16.5","Counter32",732308464
+"IF-MIB::ifOutOctets.6","iso.3.6.1.2.1.2.2.1.16.6","Counter32",3840703169
+"IF-MIB::ifOutOctets.7","iso.3.6.1.2.1.2.2.1.16.7","Counter32",0
+"IF-MIB::ifOutOctets.8","iso.3.6.1.2.1.2.2.1.16.8","Counter32",3413921924
+"IF-MIB::ifOutOctets.9","iso.3.6.1.2.1.2.2.1.16.9","Counter32",1935575567
+"IF-MIB::ifOutOctets.10","iso.3.6.1.2.1.2.2.1.16.10","Counter32",64
+"IF-MIB::ifOutOctets.11","iso.3.6.1.2.1.2.2.1.16.11","Counter32",64
+"IF-MIB::ifOutOctets.180","iso.3.6.1.2.1.2.2.1.16.180","Counter32",154
+"IF-MIB::ifOutOctets.181","iso.3.6.1.2.1.2.2.1.16.181","Counter32",154
+"IF-MIB::ifOutOctets.186","iso.3.6.1.2.1.2.2.1.16.186","Counter32",298
+"IF-MIB::ifOutOctets.187","iso.3.6.1.2.1.2.2.1.16.187","Counter32",220
+"IF-MIB::ifOutUcastPkts.1","iso.3.6.1.2.1.2.2.1.17.1","Counter32",5058759
+"IF-MIB::ifOutUcastPkts.2","iso.3.6.1.2.1.2.2.1.17.2","Counter32",52113241
+"IF-MIB::ifOutUcastPkts.3","iso.3.6.1.2.1.2.2.1.17.3","Counter32",7369744
+"IF-MIB::ifOutUcastPkts.4","iso.3.6.1.2.1.2.2.1.17.4","Counter32",0
+"IF-MIB::ifOutUcastPkts.5","iso.3.6.1.2.1.2.2.1.17.5","Counter32",37215354
+"IF-MIB::ifOutUcastPkts.6","iso.3.6.1.2.1.2.2.1.17.6","Counter32",21873680
+"IF-MIB::ifOutUcastPkts.7","iso.3.6.1.2.1.2.2.1.17.7","Counter32",0
+"IF-MIB::ifOutUcastPkts.8","iso.3.6.1.2.1.2.2.1.17.8","Counter32",78207506
+"IF-MIB::ifOutUcastPkts.9","iso.3.6.1.2.1.2.2.1.17.9","Counter32",121880306
+"IF-MIB::ifOutUcastPkts.10","iso.3.6.1.2.1.2.2.1.17.10","Counter32",1
+"IF-MIB::ifOutUcastPkts.11","iso.3.6.1.2.1.2.2.1.17.11","Counter32",1
+"IF-MIB::ifOutUcastPkts.180","iso.3.6.1.2.1.2.2.1.17.180","Counter32",2
+"IF-MIB::ifOutUcastPkts.181","iso.3.6.1.2.1.2.2.1.17.181","Counter32",2
+"IF-MIB::ifOutUcastPkts.186","iso.3.6.1.2.1.2.2.1.17.186","Counter32",3
+"IF-MIB::ifOutUcastPkts.187","iso.3.6.1.2.1.2.2.1.17.187","Counter32",2
+"IF-MIB::ifOutNUcastPkts.1","iso.3.6.1.2.1.2.2.1.18.1","Counter32",0
+"IF-MIB::ifOutNUcastPkts.2","iso.3.6.1.2.1.2.2.1.18.2","Counter32",0
+"IF-MIB::ifOutNUcastPkts.3","iso.3.6.1.2.1.2.2.1.18.3","Counter32",0
+"IF-MIB::ifOutNUcastPkts.4","iso.3.6.1.2.1.2.2.1.18.4","Counter32",0
+"IF-MIB::ifOutNUcastPkts.5","iso.3.6.1.2.1.2.2.1.18.5","Counter32",0
+"IF-MIB::ifOutNUcastPkts.6","iso.3.6.1.2.1.2.2.1.18.6","Counter32",0
+"IF-MIB::ifOutNUcastPkts.7","iso.3.6.1.2.1.2.2.1.18.7","Counter32",0
+"IF-MIB::ifOutNUcastPkts.8","iso.3.6.1.2.1.2.2.1.18.8","Counter32",0
+"IF-MIB::ifOutNUcastPkts.9","iso.3.6.1.2.1.2.2.1.18.9","Counter32",0
+"IF-MIB::ifOutNUcastPkts.10","iso.3.6.1.2.1.2.2.1.18.10","Counter32",0
+"IF-MIB::ifOutNUcastPkts.11","iso.3.6.1.2.1.2.2.1.18.11","Counter32",0
+"IF-MIB::ifOutNUcastPkts.180","iso.3.6.1.2.1.2.2.1.18.180","Counter32",0
+"IF-MIB::ifOutNUcastPkts.181","iso.3.6.1.2.1.2.2.1.18.181","Counter32",0
+"IF-MIB::ifOutNUcastPkts.186","iso.3.6.1.2.1.2.2.1.18.186","Counter32",0
+"IF-MIB::ifOutNUcastPkts.187","iso.3.6.1.2.1.2.2.1.18.187","Counter32",0
+"IF-MIB::ifOutDiscards.1","iso.3.6.1.2.1.2.2.1.19.1","Counter32",0
+"IF-MIB::ifOutDiscards.2","iso.3.6.1.2.1.2.2.1.19.2","Counter32",0
+"IF-MIB::ifOutDiscards.3","iso.3.6.1.2.1.2.2.1.19.3","Counter32",0
+"IF-MIB::ifOutDiscards.4","iso.3.6.1.2.1.2.2.1.19.4","Counter32",0
+"IF-MIB::ifOutDiscards.5","iso.3.6.1.2.1.2.2.1.19.5","Counter32",0
+"IF-MIB::ifOutDiscards.6","iso.3.6.1.2.1.2.2.1.19.6","Counter32",0
+"IF-MIB::ifOutDiscards.7","iso.3.6.1.2.1.2.2.1.19.7","Counter32",0
+"IF-MIB::ifOutDiscards.8","iso.3.6.1.2.1.2.2.1.19.8","Counter32",0
+"IF-MIB::ifOutDiscards.9","iso.3.6.1.2.1.2.2.1.19.9","Counter32",0
+"IF-MIB::ifOutDiscards.10","iso.3.6.1.2.1.2.2.1.19.10","Counter32",0
+"IF-MIB::ifOutDiscards.11","iso.3.6.1.2.1.2.2.1.19.11","Counter32",0
+"IF-MIB::ifOutDiscards.180","iso.3.6.1.2.1.2.2.1.19.180","Counter32",0
+"IF-MIB::ifOutDiscards.181","iso.3.6.1.2.1.2.2.1.19.181","Counter32",0
+"IF-MIB::ifOutDiscards.186","iso.3.6.1.2.1.2.2.1.19.186","Counter32",0
+"IF-MIB::ifOutDiscards.187","iso.3.6.1.2.1.2.2.1.19.187","Counter32",0
+"IF-MIB::ifOutErrors.1","iso.3.6.1.2.1.2.2.1.20.1","Counter32",0
+"IF-MIB::ifOutErrors.2","iso.3.6.1.2.1.2.2.1.20.2","Counter32",0
+"IF-MIB::ifOutErrors.3","iso.3.6.1.2.1.2.2.1.20.3","Counter32",0
+"IF-MIB::ifOutErrors.4","iso.3.6.1.2.1.2.2.1.20.4","Counter32",0
+"IF-MIB::ifOutErrors.5","iso.3.6.1.2.1.2.2.1.20.5","Counter32",0
+"IF-MIB::ifOutErrors.6","iso.3.6.1.2.1.2.2.1.20.6","Counter32",0
+"IF-MIB::ifOutErrors.7","iso.3.6.1.2.1.2.2.1.20.7","Counter32",0
+"IF-MIB::ifOutErrors.8","iso.3.6.1.2.1.2.2.1.20.8","Counter32",0
+"IF-MIB::ifOutErrors.9","iso.3.6.1.2.1.2.2.1.20.9","Counter32",0
+"IF-MIB::ifOutErrors.10","iso.3.6.1.2.1.2.2.1.20.10","Counter32",0
+"IF-MIB::ifOutErrors.11","iso.3.6.1.2.1.2.2.1.20.11","Counter32",0
+"IF-MIB::ifOutErrors.180","iso.3.6.1.2.1.2.2.1.20.180","Counter32",0
+"IF-MIB::ifOutErrors.181","iso.3.6.1.2.1.2.2.1.20.181","Counter32",0
+"IF-MIB::ifOutErrors.186","iso.3.6.1.2.1.2.2.1.20.186","Counter32",0
+"IF-MIB::ifOutErrors.187","iso.3.6.1.2.1.2.2.1.20.187","Counter32",0
+"IF-MIB::ifOutQLen.1","iso.3.6.1.2.1.2.2.1.21.1","Gauge32",0
+"IF-MIB::ifOutQLen.2","iso.3.6.1.2.1.2.2.1.21.2","Gauge32",0
+"IF-MIB::ifOutQLen.3","iso.3.6.1.2.1.2.2.1.21.3","Gauge32",0
+"IF-MIB::ifOutQLen.4","iso.3.6.1.2.1.2.2.1.21.4","Gauge32",0
+"IF-MIB::ifOutQLen.5","iso.3.6.1.2.1.2.2.1.21.5","Gauge32",0
+"IF-MIB::ifOutQLen.6","iso.3.6.1.2.1.2.2.1.21.6","Gauge32",0
+"IF-MIB::ifOutQLen.7","iso.3.6.1.2.1.2.2.1.21.7","Gauge32",0
+"IF-MIB::ifOutQLen.8","iso.3.6.1.2.1.2.2.1.21.8","Gauge32",0
+"IF-MIB::ifOutQLen.9","iso.3.6.1.2.1.2.2.1.21.9","Gauge32",0
+"IF-MIB::ifOutQLen.10","iso.3.6.1.2.1.2.2.1.21.10","Gauge32",0
+"IF-MIB::ifOutQLen.11","iso.3.6.1.2.1.2.2.1.21.11","Gauge32",0
+"IF-MIB::ifOutQLen.180","iso.3.6.1.2.1.2.2.1.21.180","Gauge32",0
+"IF-MIB::ifOutQLen.181","iso.3.6.1.2.1.2.2.1.21.181","Gauge32",0
+"IF-MIB::ifOutQLen.186","iso.3.6.1.2.1.2.2.1.21.186","Gauge32",0
+"IF-MIB::ifOutQLen.187","iso.3.6.1.2.1.2.2.1.21.187","Gauge32",0
+"IF-MIB::ifSpecific.1","iso.3.6.1.2.1.2.2.1.22.1","OID","ccitt.0"
+"IF-MIB::ifSpecific.2","iso.3.6.1.2.1.2.2.1.22.2","OID","ccitt.0"
+"IF-MIB::ifSpecific.3","iso.3.6.1.2.1.2.2.1.22.3","OID","ccitt.0"
+"IF-MIB::ifSpecific.4","iso.3.6.1.2.1.2.2.1.22.4","OID","ccitt.0"
+"IF-MIB::ifSpecific.5","iso.3.6.1.2.1.2.2.1.22.5","OID","ccitt.0"
+"IF-MIB::ifSpecific.6","iso.3.6.1.2.1.2.2.1.22.6","OID","ccitt.0"
+"IF-MIB::ifSpecific.7","iso.3.6.1.2.1.2.2.1.22.7","OID","ccitt.0"
+"IF-MIB::ifSpecific.8","iso.3.6.1.2.1.2.2.1.22.8","OID","ccitt.0"
+"IF-MIB::ifSpecific.9","iso.3.6.1.2.1.2.2.1.22.9","OID","ccitt.0"
+"IF-MIB::ifSpecific.10","iso.3.6.1.2.1.2.2.1.22.10","OID","ccitt.0"
+"IF-MIB::ifSpecific.11","iso.3.6.1.2.1.2.2.1.22.11","OID","ccitt.0"
+"IF-MIB::ifSpecific.180","iso.3.6.1.2.1.2.2.1.22.180","OID","ccitt.0"
+"IF-MIB::ifSpecific.181","iso.3.6.1.2.1.2.2.1.22.181","OID","ccitt.0"
+"IF-MIB::ifSpecific.186","iso.3.6.1.2.1.2.2.1.22.186","OID","ccitt.0"
+"IF-MIB::ifSpecific.187","iso.3.6.1.2.1.2.2.1.22.187","OID","ccitt.0"
+"RFC1213-MIB::ipForwarding.0","iso.3.6.1.2.1.4.1.0","INTEGER",1
+"RFC1213-MIB::ipDefaultTTL.0","iso.3.6.1.2.1.4.2.0","INTEGER",255
+"RFC1213-MIB::ipAdEntAddr.10.46.0.1","iso.3.6.1.2.1.4.20.1.1.10.46.0.1","IpAddress","10.46.0.1"
+"RFC1213-MIB::ipAdEntAddr.68.36.126.187","iso.3.6.1.2.1.4.20.1.1.68.36.126.187","IpAddress","68.36.126.187"
+"RFC1213-MIB::ipAdEntIfIndex.10.46.0.1","iso.3.6.1.2.1.4.20.1.2.10.46.0.1","INTEGER",9
+"RFC1213-MIB::ipAdEntIfIndex.68.36.126.187","iso.3.6.1.2.1.4.20.1.2.68.36.126.187","INTEGER",2
+"RFC1213-MIB::ipAdEntNetMask.10.46.0.1","iso.3.6.1.2.1.4.20.1.3.10.46.0.1","IpAddress","255.0.0.0"
+"RFC1213-MIB::ipAdEntNetMask.68.36.126.187","iso.3.6.1.2.1.4.20.1.3.68.36.126.187","IpAddress","255.255.255.0"
+"RFC1213-MIB::ipAdEntBcastAddr.10.46.0.1","iso.3.6.1.2.1.4.20.1.4.10.46.0.1","INTEGER",1
+"RFC1213-MIB::ipAdEntBcastAddr.68.36.126.187","iso.3.6.1.2.1.4.20.1.4.68.36.126.187","INTEGER",1
+"RFC1213-MIB::ipAdEntReasmMaxSize.10.46.0.1","iso.3.6.1.2.1.4.20.1.5.10.46.0.1","INTEGER",65535
+"RFC1213-MIB::ipAdEntReasmMaxSize.68.36.126.187","iso.3.6.1.2.1.4.20.1.5.68.36.126.187","INTEGER",65535
+"RFC1213-MIB::ipRouteDest.0.0.0.0","iso.3.6.1.2.1.4.21.1.1.0.0.0.0","IpAddress","0.0.0.0"
+"RFC1213-MIB::ipRouteDest.10.0.0.0","iso.3.6.1.2.1.4.21.1.1.10.0.0.0","IpAddress","10.0.0.0"
+"RFC1213-MIB::ipRouteDest.68.36.126.0","iso.3.6.1.2.1.4.21.1.1.68.36.126.0","IpAddress","68.36.126.0"
+"RFC1213-MIB::ipRouteIfIndex.0.0.0.0","iso.3.6.1.2.1.4.21.1.2.0.0.0.0","INTEGER",2
+"RFC1213-MIB::ipRouteIfIndex.10.0.0.0","iso.3.6.1.2.1.4.21.1.2.10.0.0.0","INTEGER",9
+"RFC1213-MIB::ipRouteIfIndex.68.36.126.0","iso.3.6.1.2.1.4.21.1.2.68.36.126.0","INTEGER",2
+"RFC1213-MIB::ipRouteMetric1.0.0.0.0","iso.3.6.1.2.1.4.21.1.3.0.0.0.0","INTEGER",1
+"RFC1213-MIB::ipRouteMetric1.10.0.0.0","iso.3.6.1.2.1.4.21.1.3.10.0.0.0","INTEGER",0
+"RFC1213-MIB::ipRouteMetric1.68.36.126.0","iso.3.6.1.2.1.4.21.1.3.68.36.126.0","INTEGER",0
+"RFC1213-MIB::ipRouteMetric2.0.0.0.0","iso.3.6.1.2.1.4.21.1.4.0.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric2.10.0.0.0","iso.3.6.1.2.1.4.21.1.4.10.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric2.68.36.126.0","iso.3.6.1.2.1.4.21.1.4.68.36.126.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric3.0.0.0.0","iso.3.6.1.2.1.4.21.1.5.0.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric3.10.0.0.0","iso.3.6.1.2.1.4.21.1.5.10.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric3.68.36.126.0","iso.3.6.1.2.1.4.21.1.5.68.36.126.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric4.0.0.0.0","iso.3.6.1.2.1.4.21.1.6.0.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric4.10.0.0.0","iso.3.6.1.2.1.4.21.1.6.10.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric4.68.36.126.0","iso.3.6.1.2.1.4.21.1.6.68.36.126.0","INTEGER",-1
+"RFC1213-MIB::ipRouteNextHop.0.0.0.0","iso.3.6.1.2.1.4.21.1.7.0.0.0.0","IpAddress","68.36.126.1"
+"RFC1213-MIB::ipRouteNextHop.10.0.0.0","iso.3.6.1.2.1.4.21.1.7.10.0.0.0","IpAddress","10.46.0.1"
+"RFC1213-MIB::ipRouteNextHop.68.36.126.0","iso.3.6.1.2.1.4.21.1.7.68.36.126.0","IpAddress","68.36.126.187"
+"RFC1213-MIB::ipRouteType.0.0.0.0","iso.3.6.1.2.1.4.21.1.8.0.0.0.0","INTEGER",4
+"RFC1213-MIB::ipRouteType.10.0.0.0","iso.3.6.1.2.1.4.21.1.8.10.0.0.0","INTEGER",3
+"RFC1213-MIB::ipRouteType.68.36.126.0","iso.3.6.1.2.1.4.21.1.8.68.36.126.0","INTEGER",3
+"RFC1213-MIB::ipRouteProto.0.0.0.0","iso.3.6.1.2.1.4.21.1.9.0.0.0.0","INTEGER",2
+"RFC1213-MIB::ipRouteProto.10.0.0.0","iso.3.6.1.2.1.4.21.1.9.10.0.0.0","INTEGER",1
+"RFC1213-MIB::ipRouteProto.68.36.126.0","iso.3.6.1.2.1.4.21.1.9.68.36.126.0","INTEGER",1
+"RFC1213-MIB::ipRouteAge.0.0.0.0","iso.3.6.1.2.1.4.21.1.10.0.0.0.0","INTEGER",0
+"RFC1213-MIB::ipRouteAge.10.0.0.0","iso.3.6.1.2.1.4.21.1.10.10.0.0.0","INTEGER",0
+"RFC1213-MIB::ipRouteAge.68.36.126.0","iso.3.6.1.2.1.4.21.1.10.68.36.126.0","INTEGER",0
+"RFC1213-MIB::ipRouteMask.0.0.0.0","iso.3.6.1.2.1.4.21.1.11.0.0.0.0","IpAddress","0.0.0.0"
+"RFC1213-MIB::ipRouteMask.10.0.0.0","iso.3.6.1.2.1.4.21.1.11.10.0.0.0","IpAddress","255.0.0.0"
+"RFC1213-MIB::ipRouteMask.68.36.126.0","iso.3.6.1.2.1.4.21.1.11.68.36.126.0","IpAddress","255.255.255.0"
+"RFC1213-MIB::ipRouteMetric5.0.0.0.0","iso.3.6.1.2.1.4.21.1.12.0.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric5.10.0.0.0","iso.3.6.1.2.1.4.21.1.12.10.0.0.0","INTEGER",-1
+"RFC1213-MIB::ipRouteMetric5.68.36.126.0","iso.3.6.1.2.1.4.21.1.12.68.36.126.0","INTEGER",-1
+"RFC1213-MIB::ipRouteInfo.0.0.0.0","iso.3.6.1.2.1.4.21.1.13.0.0.0.0","OID","ccitt.0"
+"RFC1213-MIB::ipRouteInfo.10.0.0.0","iso.3.6.1.2.1.4.21.1.13.10.0.0.0","OID","ccitt.0"
+"RFC1213-MIB::ipRouteInfo.68.36.126.0","iso.3.6.1.2.1.4.21.1.13.68.36.126.0","OID","ccitt.0"
+"RFC1213-MIB::ipNetToMediaIfIndex.2.68.36.126.1","iso.3.6.1.2.1.4.22.1.1.2.68.36.126.1","INTEGER",2
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.2","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.2","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.3","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.3","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.4","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.4","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.5","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.5","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.6","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.6","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.7","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.7","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.8","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.8","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.9","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.9","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.10","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.10","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.11","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.11","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.12","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.12","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.13","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.13","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.16","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.16","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.17","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.17","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.19","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.19","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.20","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.20","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.23","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.23","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.27","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.27","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.29","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.29","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.34","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.34","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.37","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.37","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.38","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.38","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.39","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.39","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.44","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.44","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.46","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.46","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.47","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.47","INTEGER",9
+"RFC1213-MIB::ipNetToMediaIfIndex.9.10.46.0.52","iso.3.6.1.2.1.4.22.1.1.9.10.46.0.52","INTEGER",9
+"RFC1213-MIB::ipNetToMediaPhysAddress.2.68.36.126.1","iso.3.6.1.2.1.4.22.1.2.2.68.36.126.1","Hex-STRING","Hex-00 01 5C B3 9C 46"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.2","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.2","Hex-STRING","Hex-B8 69 F4 D6 5F 71"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.3","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.3","Hex-STRING","Hex-CC 2D E0 1D 26 A3"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.4","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.4","Hex-STRING","Hex-1C F2 9A 74 E9 EF"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.5","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.5","Hex-STRING","Hex-54 60 09 3F BE 22"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.6","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.6","Hex-STRING","Hex-00 F6 20 46 A1 63"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.7","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.7","Hex-STRING","Hex-44 07 0B A0 C8 C7"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.8","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.8","Hex-STRING","Hex-44 07 0B E2 73 3D"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.9","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.9","Hex-STRING","Hex-A0 D3 C1 0B C4 15"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.10","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.10","Hex-STRING","Hex-A0 48 1C A9 AA 1F"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.11","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.11","Hex-STRING","Hex-A0 D3 C1 0A C2 53"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.12","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.12","Hex-STRING","Hex-20 DF B9 40 3F A2"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.13","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.13","Hex-STRING","Hex-9C 5A 44 9F 6D 42"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.16","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.16","Hex-STRING","Hex-10 AE 60 73 80 5D"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.17","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.17","Hex-STRING","Hex-44 00 49 5F 47 FC"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.19","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.19","Hex-STRING","Hex-B0 52 16 1E 8C 18"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.20","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.20","Hex-STRING","Hex-94 53 30 B3 83 75"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.23","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.23","Hex-STRING","Hex-78 F8 82 EF 12 47"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.27","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.27","Hex-STRING","Hex-3C 5C C4 A2 C5 F2"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.29","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.29","Hex-STRING","Hex-40 4E 36 D4 EF 6E"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.34","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.34","Hex-STRING","Hex-00 AE FA FC 82 91"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.37","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.37","Hex-STRING","Hex-DC A9 04 93 20 00"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.38","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.38","Hex-STRING","Hex-A8 1E 84 4E D3 12"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.39","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.39","Hex-STRING","Hex-DC 74 A8 12 06 B0"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.44","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.44","Hex-STRING","Hex-44 09 B8 2E 42 0B"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.46","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.46","Hex-STRING","Hex-0C CB 85 14 EA 1A"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.47","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.47","Hex-STRING","Hex-9C B7 0D D4 CE 84"
+"RFC1213-MIB::ipNetToMediaPhysAddress.9.10.46.0.52","iso.3.6.1.2.1.4.22.1.2.9.10.46.0.52","Hex-STRING","Hex-98 E7 F4 5F 35 A7"
+"RFC1213-MIB::ipNetToMediaNetAddress.2.68.36.126.1","iso.3.6.1.2.1.4.22.1.3.2.68.36.126.1","IpAddress","68.36.126.1"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.2","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.2","IpAddress","10.46.0.2"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.3","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.3","IpAddress","10.46.0.3"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.4","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.4","IpAddress","10.46.0.4"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.5","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.5","IpAddress","10.46.0.5"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.6","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.6","IpAddress","10.46.0.6"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.7","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.7","IpAddress","10.46.0.7"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.8","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.8","IpAddress","10.46.0.8"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.9","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.9","IpAddress","10.46.0.9"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.10","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.10","IpAddress","10.46.0.10"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.11","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.11","IpAddress","10.46.0.11"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.12","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.12","IpAddress","10.46.0.12"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.13","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.13","IpAddress","10.46.0.13"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.16","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.16","IpAddress","10.46.0.16"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.17","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.17","IpAddress","10.46.0.17"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.19","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.19","IpAddress","10.46.0.19"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.20","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.20","IpAddress","10.46.0.20"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.23","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.23","IpAddress","10.46.0.23"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.27","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.27","IpAddress","10.46.0.27"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.29","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.29","IpAddress","10.46.0.29"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.34","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.34","IpAddress","10.46.0.34"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.37","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.37","IpAddress","10.46.0.37"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.38","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.38","IpAddress","10.46.0.38"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.39","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.39","IpAddress","10.46.0.39"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.44","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.44","IpAddress","10.46.0.44"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.46","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.46","IpAddress","10.46.0.46"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.47","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.47","IpAddress","10.46.0.47"
+"RFC1213-MIB::ipNetToMediaNetAddress.9.10.46.0.52","iso.3.6.1.2.1.4.22.1.3.9.10.46.0.52","IpAddress","10.46.0.52"
+"RFC1213-MIB::ipNetToMediaType.2.68.36.126.1","iso.3.6.1.2.1.4.22.1.4.2.68.36.126.1","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.2","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.2","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.3","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.3","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.4","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.4","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.5","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.5","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.6","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.6","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.7","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.7","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.8","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.8","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.9","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.9","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.10","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.10","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.11","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.11","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.12","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.12","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.13","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.13","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.16","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.16","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.17","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.17","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.19","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.19","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.20","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.20","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.23","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.23","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.27","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.27","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.29","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.29","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.34","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.34","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.37","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.37","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.38","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.38","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.39","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.39","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.44","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.44","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.46","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.46","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.47","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.47","INTEGER",3
+"RFC1213-MIB::ipNetToMediaType.9.10.46.0.52","iso.3.6.1.2.1.4.22.1.4.9.10.46.0.52","INTEGER",3
+"IP-FORWARD-MIB::ipCidrRouteNumber.0","iso.3.6.1.2.1.4.24.3.0","Gauge32",4
+"IP-FORWARD-MIB::ipCidrRouteDest.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.1.0.0.0.0.0.0.0.0.0.68.36.126.1","IpAddress","0.0.0.0"
+"IP-FORWARD-MIB::ipCidrRouteDest.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.1.10.0.0.0.255.0.0.0.0.10.46.0.1","IpAddress","10.0.0.0"
+"IP-FORWARD-MIB::ipCidrRouteDest.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.1.68.36.126.0.255.255.255.0.0.68.36.126.187","IpAddress","68.36.126.0"
+"IP-FORWARD-MIB::ipCidrRouteMask.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.2.0.0.0.0.0.0.0.0.0.68.36.126.1","IpAddress","0.0.0.0"
+"IP-FORWARD-MIB::ipCidrRouteMask.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.2.10.0.0.0.255.0.0.0.0.10.46.0.1","IpAddress","255.0.0.0"
+"IP-FORWARD-MIB::ipCidrRouteMask.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.2.68.36.126.0.255.255.255.0.0.68.36.126.187","IpAddress","255.255.255.0"
+"IP-FORWARD-MIB::ipCidrRouteTos.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.3.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteTos.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.3.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteTos.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.3.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteNextHop.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.4.0.0.0.0.0.0.0.0.0.68.36.126.1","IpAddress","68.36.126.1"
+"IP-FORWARD-MIB::ipCidrRouteNextHop.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.4.10.0.0.0.255.0.0.0.0.10.46.0.1","IpAddress","10.46.0.1"
+"IP-FORWARD-MIB::ipCidrRouteNextHop.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.4.68.36.126.0.255.255.255.0.0.68.36.126.187","IpAddress","68.36.126.187"
+"IP-FORWARD-MIB::ipCidrRouteIfIndex.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.5.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",2
+"IP-FORWARD-MIB::ipCidrRouteIfIndex.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.5.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",9
+"IP-FORWARD-MIB::ipCidrRouteIfIndex.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.5.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",2
+"IP-FORWARD-MIB::ipCidrRouteType.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.6.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",4
+"IP-FORWARD-MIB::ipCidrRouteType.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.6.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",3
+"IP-FORWARD-MIB::ipCidrRouteType.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.6.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",3
+"IP-FORWARD-MIB::ipCidrRouteProto.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.7.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",3
+"IP-FORWARD-MIB::ipCidrRouteProto.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.7.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",2
+"IP-FORWARD-MIB::ipCidrRouteProto.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.7.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",2
+"IP-FORWARD-MIB::ipCidrRouteAge.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.8.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteAge.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.8.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteAge.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.8.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteInfo.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.9.0.0.0.0.0.0.0.0.0.68.36.126.1","OID","ccitt.0"
+"IP-FORWARD-MIB::ipCidrRouteInfo.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.9.10.0.0.0.255.0.0.0.0.10.46.0.1","OID","ccitt.0"
+"IP-FORWARD-MIB::ipCidrRouteInfo.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.9.68.36.126.0.255.255.255.0.0.68.36.126.187","OID","ccitt.0"
+"IP-FORWARD-MIB::ipCidrRouteNextHopAS.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.10.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteNextHopAS.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.10.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteNextHopAS.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.10.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteMetric1.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.11.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",1
+"IP-FORWARD-MIB::ipCidrRouteMetric1.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.11.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteMetric1.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.11.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",0
+"IP-FORWARD-MIB::ipCidrRouteMetric2.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.12.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric2.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.12.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric2.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.12.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric3.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.13.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric3.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.13.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric3.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.13.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric4.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.14.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric4.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.14.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric4.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.14.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric5.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.15.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric5.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.15.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteMetric5.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.15.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",-1
+"IP-FORWARD-MIB::ipCidrRouteStatus.0.0.0.0.0.0.0.0.0.68.36.126.1","iso.3.6.1.2.1.4.24.4.1.16.0.0.0.0.0.0.0.0.0.68.36.126.1","INTEGER",1
+"IP-FORWARD-MIB::ipCidrRouteStatus.10.0.0.0.255.0.0.0.0.10.46.0.1","iso.3.6.1.2.1.4.24.4.1.16.10.0.0.0.255.0.0.0.0.10.46.0.1","INTEGER",1
+"IP-FORWARD-MIB::ipCidrRouteStatus.68.36.126.0.255.255.255.0.0.68.36.126.187","iso.3.6.1.2.1.4.24.4.1.16.68.36.126.0.255.255.255.0.0.68.36.126.187","INTEGER",1
+"BRIDGE-MIB::dot1dBaseBridgeAddress.0","iso.3.6.1.2.1.17.1.1.0","Hex-STRING","Hex-64 D1 54 43 88 91"
+"BRIDGE-MIB::dot1dBasePort.0","iso.3.6.1.2.1.17.1.4.1.1.0","INTEGER",0
+"BRIDGE-MIB::dot1dBasePort.1","iso.3.6.1.2.1.17.1.4.1.1.1","INTEGER",1
+"BRIDGE-MIB::dot1dBasePort.2","iso.3.6.1.2.1.17.1.4.1.1.2","INTEGER",2
+"BRIDGE-MIB::dot1dBasePort.3","iso.3.6.1.2.1.17.1.4.1.1.3","INTEGER",3
+"BRIDGE-MIB::dot1dBasePort.4","iso.3.6.1.2.1.17.1.4.1.1.4","INTEGER",4
+"BRIDGE-MIB::dot1dBasePort.5","iso.3.6.1.2.1.17.1.4.1.1.5","INTEGER",5
+"BRIDGE-MIB::dot1dBasePort.6","iso.3.6.1.2.1.17.1.4.1.1.6","INTEGER",6
+"BRIDGE-MIB::dot1dBasePortIfIndex.0","iso.3.6.1.2.1.17.1.4.1.2.0","INTEGER",3
+"BRIDGE-MIB::dot1dBasePortIfIndex.1","iso.3.6.1.2.1.17.1.4.1.2.1","INTEGER",4
+"BRIDGE-MIB::dot1dBasePortIfIndex.2","iso.3.6.1.2.1.17.1.4.1.2.2","INTEGER",5
+"BRIDGE-MIB::dot1dBasePortIfIndex.3","iso.3.6.1.2.1.17.1.4.1.2.3","INTEGER",6
+"BRIDGE-MIB::dot1dBasePortIfIndex.4","iso.3.6.1.2.1.17.1.4.1.2.4","INTEGER",7
+"BRIDGE-MIB::dot1dBasePortIfIndex.5","iso.3.6.1.2.1.17.1.4.1.2.5","INTEGER",1
+"BRIDGE-MIB::dot1dBasePortIfIndex.6","iso.3.6.1.2.1.17.1.4.1.2.6","INTEGER",8
+"BRIDGE-MIB::dot1dBasePortCircuit.0","iso.3.6.1.2.1.17.1.4.1.3.0","OID","ccitt.0"
+"BRIDGE-MIB::dot1dBasePortCircuit.1","iso.3.6.1.2.1.17.1.4.1.3.1","OID","ccitt.0"
+"BRIDGE-MIB::dot1dBasePortCircuit.2","iso.3.6.1.2.1.17.1.4.1.3.2","OID","ccitt.0"
+"BRIDGE-MIB::dot1dBasePortCircuit.3","iso.3.6.1.2.1.17.1.4.1.3.3","OID","ccitt.0"
+"BRIDGE-MIB::dot1dBasePortCircuit.4","iso.3.6.1.2.1.17.1.4.1.3.4","OID","ccitt.0"
+"BRIDGE-MIB::dot1dBasePortCircuit.5","iso.3.6.1.2.1.17.1.4.1.3.5","OID","ccitt.0"
+"BRIDGE-MIB::dot1dBasePortCircuit.6","iso.3.6.1.2.1.17.1.4.1.3.6","OID","ccitt.0"
+"BRIDGE-MIB::dot1dStpProtocolSpecification.0","iso.3.6.1.2.1.17.2.1.0","INTEGER",3
+"BRIDGE-MIB::dot1dStpPriority.0","iso.3.6.1.2.1.17.2.2.0","INTEGER",20480
+"BRIDGE-MIB::dot1dStpPort.0","iso.3.6.1.2.1.17.2.15.1.1.0","INTEGER",0
+"BRIDGE-MIB::dot1dStpPort.1","iso.3.6.1.2.1.17.2.15.1.1.1","INTEGER",1
+"BRIDGE-MIB::dot1dStpPort.2","iso.3.6.1.2.1.17.2.15.1.1.2","INTEGER",2
+"BRIDGE-MIB::dot1dStpPort.3","iso.3.6.1.2.1.17.2.15.1.1.3","INTEGER",3
+"BRIDGE-MIB::dot1dStpPort.4","iso.3.6.1.2.1.17.2.15.1.1.4","INTEGER",4
+"BRIDGE-MIB::dot1dStpPort.5","iso.3.6.1.2.1.17.2.15.1.1.5","INTEGER",5
+"BRIDGE-MIB::dot1dStpPort.6","iso.3.6.1.2.1.17.2.15.1.1.6","INTEGER",6
+"BRIDGE-MIB::dot1dStpPortPriority.0","iso.3.6.1.2.1.17.2.15.1.2.0","INTEGER",128
+"BRIDGE-MIB::dot1dStpPortPriority.1","iso.3.6.1.2.1.17.2.15.1.2.1","INTEGER",128
+"BRIDGE-MIB::dot1dStpPortPriority.2","iso.3.6.1.2.1.17.2.15.1.2.2","INTEGER",128
+"BRIDGE-MIB::dot1dStpPortPriority.3","iso.3.6.1.2.1.17.2.15.1.2.3","INTEGER",128
+"BRIDGE-MIB::dot1dStpPortPriority.4","iso.3.6.1.2.1.17.2.15.1.2.4","INTEGER",128
+"BRIDGE-MIB::dot1dStpPortPriority.5","iso.3.6.1.2.1.17.2.15.1.2.5","INTEGER",128
+"BRIDGE-MIB::dot1dStpPortPriority.6","iso.3.6.1.2.1.17.2.15.1.2.6","INTEGER",128
+"BRIDGE-MIB::dot1dStpPortState.0","iso.3.6.1.2.1.17.2.15.1.3.0","INTEGER",5
+"BRIDGE-MIB::dot1dStpPortState.1","iso.3.6.1.2.1.17.2.15.1.3.1","INTEGER",2
+"BRIDGE-MIB::dot1dStpPortState.2","iso.3.6.1.2.1.17.2.15.1.3.2","INTEGER",5
+"BRIDGE-MIB::dot1dStpPortState.3","iso.3.6.1.2.1.17.2.15.1.3.3","INTEGER",5
+"BRIDGE-MIB::dot1dStpPortState.4","iso.3.6.1.2.1.17.2.15.1.3.4","INTEGER",2
+"BRIDGE-MIB::dot1dStpPortState.5","iso.3.6.1.2.1.17.2.15.1.3.5","INTEGER",5
+"BRIDGE-MIB::dot1dStpPortState.6","iso.3.6.1.2.1.17.2.15.1.3.6","INTEGER",5
+"BRIDGE-MIB::dot1dStpPortEnable.0","iso.3.6.1.2.1.17.2.15.1.4.0","INTEGER",1
+"BRIDGE-MIB::dot1dStpPortEnable.1","iso.3.6.1.2.1.17.2.15.1.4.1","INTEGER",1
+"BRIDGE-MIB::dot1dStpPortEnable.2","iso.3.6.1.2.1.17.2.15.1.4.2","INTEGER",1
+"BRIDGE-MIB::dot1dStpPortEnable.3","iso.3.6.1.2.1.17.2.15.1.4.3","INTEGER",1
+"BRIDGE-MIB::dot1dStpPortEnable.4","iso.3.6.1.2.1.17.2.15.1.4.4","INTEGER",1
+"BRIDGE-MIB::dot1dStpPortEnable.5","iso.3.6.1.2.1.17.2.15.1.4.5","INTEGER",1
+"BRIDGE-MIB::dot1dStpPortEnable.6","iso.3.6.1.2.1.17.2.15.1.4.6","INTEGER",1
+"BRIDGE-MIB::dot1dStpPortDesignatedRoot.0","iso.3.6.1.2.1.17.2.15.1.6.0","Hex-STRING","Hex-00 00 00 00 00 00 00 00"
+"BRIDGE-MIB::dot1dStpPortDesignatedRoot.1","iso.3.6.1.2.1.17.2.15.1.6.1","Hex-STRING","Hex-00 00 00 00 00 00 00 00"
+"BRIDGE-MIB::dot1dStpPortDesignatedRoot.2","iso.3.6.1.2.1.17.2.15.1.6.2","Hex-STRING","Hex-00 00 00 00 00 00 00 00"
+"BRIDGE-MIB::dot1dStpPortDesignatedRoot.3","iso.3.6.1.2.1.17.2.15.1.6.3","Hex-STRING","Hex-00 00 00 00 00 00 00 00"
+"BRIDGE-MIB::dot1dStpPortDesignatedRoot.4","iso.3.6.1.2.1.17.2.15.1.6.4","Hex-STRING","Hex-00 00 00 00 00 00 00 00"
+"BRIDGE-MIB::dot1dStpPortDesignatedRoot.5","iso.3.6.1.2.1.17.2.15.1.6.5","Hex-STRING","Hex-00 00 00 00 00 00 00 00"
+"BRIDGE-MIB::dot1dStpPortDesignatedRoot.6","iso.3.6.1.2.1.17.2.15.1.6.6","Hex-STRING","Hex-00 00 00 00 00 00 00 00"
+"BRIDGE-MIB::dot1dStpPortDesignatedCost.0","iso.3.6.1.2.1.17.2.15.1.7.0","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedCost.1","iso.3.6.1.2.1.17.2.15.1.7.1","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedCost.2","iso.3.6.1.2.1.17.2.15.1.7.2","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedCost.3","iso.3.6.1.2.1.17.2.15.1.7.3","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedCost.4","iso.3.6.1.2.1.17.2.15.1.7.4","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedCost.5","iso.3.6.1.2.1.17.2.15.1.7.5","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedCost.6","iso.3.6.1.2.1.17.2.15.1.7.6","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedBridge.0","iso.3.6.1.2.1.17.2.15.1.8.0","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedBridge.1","iso.3.6.1.2.1.17.2.15.1.8.1","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedBridge.2","iso.3.6.1.2.1.17.2.15.1.8.2","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedBridge.3","iso.3.6.1.2.1.17.2.15.1.8.3","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedBridge.4","iso.3.6.1.2.1.17.2.15.1.8.4","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedBridge.5","iso.3.6.1.2.1.17.2.15.1.8.5","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortDesignatedBridge.6","iso.3.6.1.2.1.17.2.15.1.8.6","INTEGER",0
+"BRIDGE-MIB::dot1dStpPortForwardTransitions.0","iso.3.6.1.2.1.17.2.15.1.10.0","INTEGER",10
+"BRIDGE-MIB::dot1dStpPortForwardTransitions.1","iso.3.6.1.2.1.17.2.15.1.10.1","INTEGER",10
+"BRIDGE-MIB::dot1dStpPortForwardTransitions.2","iso.3.6.1.2.1.17.2.15.1.10.2","INTEGER",10
+"BRIDGE-MIB::dot1dStpPortForwardTransitions.3","iso.3.6.1.2.1.17.2.15.1.10.3","INTEGER",10
+"BRIDGE-MIB::dot1dStpPortForwardTransitions.4","iso.3.6.1.2.1.17.2.15.1.10.4","INTEGER",10
+"BRIDGE-MIB::dot1dStpPortForwardTransitions.5","iso.3.6.1.2.1.17.2.15.1.10.5","INTEGER",10
+"BRIDGE-MIB::dot1dStpPortForwardTransitions.6","iso.3.6.1.2.1.17.2.15.1.10.6","INTEGER",10
+"BRIDGE-MIB::dot1dTpFdbAddress.'......'","iso.3.6.1.2.1.17.4.3.1.1.0.174.250.252.130.145","Hex-STRING","Hex-00 AE FA FC 82 91"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.. F.c'","iso.3.6.1.2.1.17.4.3.1.1.0.246.32.70.161.99","Hex-STRING","Hex-00 F6 20 46 A1 63"
+"BRIDGE-MIB::dot1dTpFdbAddress.'......'","iso.3.6.1.2.1.17.4.3.1.1.12.203.133.20.234.26","Hex-STRING","Hex-0C CB 85 14 EA 1A"
+"BRIDGE-MIB::dot1dTpFdbAddress.' ..@?.'","iso.3.6.1.2.1.17.4.3.1.1.32.223.185.64.63.162","Hex-STRING","Hex-20 DF B9 40 3F A2"
+"BRIDGE-MIB::dot1dTpFdbAddress.'<\....'","iso.3.6.1.2.1.17.4.3.1.1.60.92.196.162.197.242","Hex-STRING","Hex-3C 5C C4 A2 C5 F2"
+"BRIDGE-MIB::dot1dTpFdbAddress.'@N6..n'","iso.3.6.1.2.1.17.4.3.1.1.64.78.54.212.239.110","Hex-STRING","Hex-40 4E 36 D4 EF 6E"
+"BRIDGE-MIB::dot1dTpFdbAddress.'D.....'","iso.3.6.1.2.1.17.4.3.1.1.68.7.11.160.200.199","Hex-STRING","Hex-44 07 0B A0 C8 C7"
+"BRIDGE-MIB::dot1dTpFdbAddress.'D...s","iso.3.6.1.2.1.17.4.3.1.1.68.7.11.226.115.61","Hex-STRING","Hex-44 07 0B E2 73 3D"
+"BRIDGE-MIB::dot1dTpFdbAddress.'D...B.'","iso.3.6.1.2.1.17.4.3.1.1.68.9.184.46.66.11","Hex-STRING","Hex-44 09 B8 2E 42 0B"
+"BRIDGE-MIB::dot1dTpFdbAddress.'T`.?.""'","iso.3.6.1.2.1.17.4.3.1.1.84.96.9.63.190.34","Hex-STRING","Hex-54 60 09 3F BE 22"
+"BRIDGE-MIB::dot1dTpFdbAddress.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.1.100.209.84.67.136.145","Hex-STRING","Hex-64 D1 54 43 88 91"
+"BRIDGE-MIB::dot1dTpFdbAddress.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.1.100.209.84.67.136.147","Hex-STRING","Hex-64 D1 54 43 88 93"
+"BRIDGE-MIB::dot1dTpFdbAddress.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.1.100.209.84.67.136.148","Hex-STRING","Hex-64 D1 54 43 88 94"
+"BRIDGE-MIB::dot1dTpFdbAddress.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.1.100.209.84.67.136.150","Hex-STRING","Hex-64 D1 54 43 88 96"
+"BRIDGE-MIB::dot1dTpFdbAddress.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.1.100.209.84.67.136.151","Hex-STRING","Hex-64 D1 54 43 88 97"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.ZD.mB'","iso.3.6.1.2.1.17.4.3.1.1.156.90.68.159.109.66","Hex-STRING","Hex-9C 5A 44 9F 6D 42"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.....S'","iso.3.6.1.2.1.17.4.3.1.1.160.211.193.10.194.83","Hex-STRING","Hex-A0 D3 C1 0A C2 53"
+"BRIDGE-MIB::dot1dTpFdbAddress.'......'","iso.3.6.1.2.1.17.4.3.1.1.160.211.193.11.196.21","Hex-STRING","Hex-A0 D3 C1 0B C4 15"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.R....'","iso.3.6.1.2.1.17.4.3.1.1.176.82.22.30.140.24","Hex-STRING","Hex-B0 52 16 1E 8C 18"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.i.._k'","iso.3.6.1.2.1.17.4.3.1.1.184.105.244.214.95.107","Hex-STRING","Hex-B8 69 F4 D6 5F 6B"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.i.._q'","iso.3.6.1.2.1.17.4.3.1.1.184.105.244.214.95.113","Hex-STRING","Hex-B8 69 F4 D6 5F 71"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.-..&.'","iso.3.6.1.2.1.17.4.3.1.1.204.45.224.29.38.156","Hex-STRING","Hex-CC 2D E0 1D 26 9C"
+"BRIDGE-MIB::dot1dTpFdbAddress.'.-..&.'","iso.3.6.1.2.1.17.4.3.1.1.204.45.224.29.38.163","Hex-STRING","Hex-CC 2D E0 1D 26 A3"
+"BRIDGE-MIB::dot1dTpFdbPort.'......'","iso.3.6.1.2.1.17.4.3.1.2.0.174.250.252.130.145","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'.. F.c'","iso.3.6.1.2.1.17.4.3.1.2.0.246.32.70.161.99","INTEGER",8
+"BRIDGE-MIB::dot1dTpFdbPort.'......'","iso.3.6.1.2.1.17.4.3.1.2.12.203.133.20.234.26","INTEGER",8
+"BRIDGE-MIB::dot1dTpFdbPort.' ..@?.'","iso.3.6.1.2.1.17.4.3.1.2.32.223.185.64.63.162","INTEGER",6
+"BRIDGE-MIB::dot1dTpFdbPort.'<\....'","iso.3.6.1.2.1.17.4.3.1.2.60.92.196.162.197.242","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'@N6..n'","iso.3.6.1.2.1.17.4.3.1.2.64.78.54.212.239.110","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'D.....'","iso.3.6.1.2.1.17.4.3.1.2.68.7.11.160.200.199","INTEGER",8
+"BRIDGE-MIB::dot1dTpFdbPort.'D...s","iso.3.6.1.2.1.17.4.3.1.2.68.7.11.226.115.61","INTEGER",8
+"BRIDGE-MIB::dot1dTpFdbPort.'D...B.'","iso.3.6.1.2.1.17.4.3.1.2.68.9.184.46.66.11","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'T`.?.""'","iso.3.6.1.2.1.17.4.3.1.2.84.96.9.63.190.34","INTEGER",8
+"BRIDGE-MIB::dot1dTpFdbPort.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.2.100.209.84.67.136.145","INTEGER",9
+"BRIDGE-MIB::dot1dTpFdbPort.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.2.100.209.84.67.136.147","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.2.100.209.84.67.136.148","INTEGER",6
+"BRIDGE-MIB::dot1dTpFdbPort.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.2.100.209.84.67.136.150","INTEGER",8
+"BRIDGE-MIB::dot1dTpFdbPort.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.2.100.209.84.67.136.151","INTEGER",1
+"BRIDGE-MIB::dot1dTpFdbPort.'.ZD.mB'","iso.3.6.1.2.1.17.4.3.1.2.156.90.68.159.109.66","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'.....S'","iso.3.6.1.2.1.17.4.3.1.2.160.211.193.10.194.83","INTEGER",6
+"BRIDGE-MIB::dot1dTpFdbPort.'......'","iso.3.6.1.2.1.17.4.3.1.2.160.211.193.11.196.21","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'.R....'","iso.3.6.1.2.1.17.4.3.1.2.176.82.22.30.140.24","INTEGER",6
+"BRIDGE-MIB::dot1dTpFdbPort.'.i.._k'","iso.3.6.1.2.1.17.4.3.1.2.184.105.244.214.95.107","INTEGER",6
+"BRIDGE-MIB::dot1dTpFdbPort.'.i.._q'","iso.3.6.1.2.1.17.4.3.1.2.184.105.244.214.95.113","INTEGER",6
+"BRIDGE-MIB::dot1dTpFdbPort.'.-..&.'","iso.3.6.1.2.1.17.4.3.1.2.204.45.224.29.38.156","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbPort.'.-..&.'","iso.3.6.1.2.1.17.4.3.1.2.204.45.224.29.38.163","INTEGER",5
+"BRIDGE-MIB::dot1dTpFdbStatus.'......'","iso.3.6.1.2.1.17.4.3.1.3.0.174.250.252.130.145","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'.. F.c'","iso.3.6.1.2.1.17.4.3.1.3.0.246.32.70.161.99","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'......'","iso.3.6.1.2.1.17.4.3.1.3.12.203.133.20.234.26","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.' ..@?.'","iso.3.6.1.2.1.17.4.3.1.3.32.223.185.64.63.162","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'<\....'","iso.3.6.1.2.1.17.4.3.1.3.60.92.196.162.197.242","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'@N6..n'","iso.3.6.1.2.1.17.4.3.1.3.64.78.54.212.239.110","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'D.....'","iso.3.6.1.2.1.17.4.3.1.3.68.7.11.160.200.199","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'D...s","iso.3.6.1.2.1.17.4.3.1.3.68.7.11.226.115.61","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'D...B.'","iso.3.6.1.2.1.17.4.3.1.3.68.9.184.46.66.11","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'T`.?.""'","iso.3.6.1.2.1.17.4.3.1.3.84.96.9.63.190.34","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.3.100.209.84.67.136.145","INTEGER",4
+"BRIDGE-MIB::dot1dTpFdbStatus.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.3.100.209.84.67.136.147","INTEGER",4
+"BRIDGE-MIB::dot1dTpFdbStatus.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.3.100.209.84.67.136.148","INTEGER",4
+"BRIDGE-MIB::dot1dTpFdbStatus.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.3.100.209.84.67.136.150","INTEGER",4
+"BRIDGE-MIB::dot1dTpFdbStatus.'d.TC..'","iso.3.6.1.2.1.17.4.3.1.3.100.209.84.67.136.151","INTEGER",4
+"BRIDGE-MIB::dot1dTpFdbStatus.'.ZD.mB'","iso.3.6.1.2.1.17.4.3.1.3.156.90.68.159.109.66","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'.....S'","iso.3.6.1.2.1.17.4.3.1.3.160.211.193.10.194.83","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'......'","iso.3.6.1.2.1.17.4.3.1.3.160.211.193.11.196.21","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'.R....'","iso.3.6.1.2.1.17.4.3.1.3.176.82.22.30.140.24","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'.i.._k'","iso.3.6.1.2.1.17.4.3.1.3.184.105.244.214.95.107","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'.i.._q'","iso.3.6.1.2.1.17.4.3.1.3.184.105.244.214.95.113","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'.-..&.'","iso.3.6.1.2.1.17.4.3.1.3.204.45.224.29.38.156","INTEGER",3
+"BRIDGE-MIB::dot1dTpFdbStatus.'.-..&.'","iso.3.6.1.2.1.17.4.3.1.3.204.45.224.29.38.163","INTEGER",3
+"Q-BRIDGE-MIB::dot1qPvid.0","iso.3.6.1.2.1.17.7.1.4.5.1.1.0","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPvid.1","iso.3.6.1.2.1.17.7.1.4.5.1.1.1","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPvid.2","iso.3.6.1.2.1.17.7.1.4.5.1.1.2","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPvid.3","iso.3.6.1.2.1.17.7.1.4.5.1.1.3","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPvid.4","iso.3.6.1.2.1.17.7.1.4.5.1.1.4","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPvid.5","iso.3.6.1.2.1.17.7.1.4.5.1.1.5","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPvid.6","iso.3.6.1.2.1.17.7.1.4.5.1.1.6","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortAcceptableFrameTypes.0","iso.3.6.1.2.1.17.7.1.4.5.1.2.0","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortAcceptableFrameTypes.1","iso.3.6.1.2.1.17.7.1.4.5.1.2.1","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortAcceptableFrameTypes.2","iso.3.6.1.2.1.17.7.1.4.5.1.2.2","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortAcceptableFrameTypes.3","iso.3.6.1.2.1.17.7.1.4.5.1.2.3","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortAcceptableFrameTypes.4","iso.3.6.1.2.1.17.7.1.4.5.1.2.4","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortAcceptableFrameTypes.5","iso.3.6.1.2.1.17.7.1.4.5.1.2.5","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortAcceptableFrameTypes.6","iso.3.6.1.2.1.17.7.1.4.5.1.2.6","INTEGER",1
+"Q-BRIDGE-MIB::dot1qPortIngressFiltering.0","iso.3.6.1.2.1.17.7.1.4.5.1.3.0","INTEGER",2
+"Q-BRIDGE-MIB::dot1qPortIngressFiltering.1","iso.3.6.1.2.1.17.7.1.4.5.1.3.1","INTEGER",2
+"Q-BRIDGE-MIB::dot1qPortIngressFiltering.2","iso.3.6.1.2.1.17.7.1.4.5.1.3.2","INTEGER",2
+"Q-BRIDGE-MIB::dot1qPortIngressFiltering.3","iso.3.6.1.2.1.17.7.1.4.5.1.3.3","INTEGER",2
+"Q-BRIDGE-MIB::dot1qPortIngressFiltering.4","iso.3.6.1.2.1.17.7.1.4.5.1.3.4","INTEGER",2
+"Q-BRIDGE-MIB::dot1qPortIngressFiltering.5","iso.3.6.1.2.1.17.7.1.4.5.1.3.5","INTEGER",2
+"Q-BRIDGE-MIB::dot1qPortIngressFiltering.6","iso.3.6.1.2.1.17.7.1.4.5.1.3.6","INTEGER",2
+"HOST-RESOURCES-MIB::hrSystemUptime.0","iso.3.6.1.2.1.25.1.1.0","Timeticks","(100756200) 11 days, 15:52:42.00"
+"HOST-RESOURCES-MIB::hrSystemDate.0","iso.3.6.1.2.1.25.1.2.0","Hex-STRING","Hex-07 E3 09 0E 10 17 2A 00 2D 04 00"
+"HOST-RESOURCES-MIB::hrMemorySize.0","iso.3.6.1.2.1.25.2.2.0","INTEGER",131072
+"HOST-RESOURCES-MIB::hrStorageIndex.65536","iso.3.6.1.2.1.25.2.3.1.1.65536","INTEGER",65536
+"HOST-RESOURCES-MIB::hrStorageIndex.131072","iso.3.6.1.2.1.25.2.3.1.1.131072","INTEGER",131072
+"HOST-RESOURCES-MIB::hrStorageType.65536","iso.3.6.1.2.1.25.2.3.1.2.65536","OID","iso.3.6.1.2.1.25.2.1.2"
+"HOST-RESOURCES-MIB::hrStorageType.131072","iso.3.6.1.2.1.25.2.3.1.2.131072","OID","iso.3.6.1.2.1.25.2.1.4"
+"HOST-RESOURCES-MIB::hrStorageDescr.65536","iso.3.6.1.2.1.25.2.3.1.3.65536","STRING","main memory"
+"HOST-RESOURCES-MIB::hrStorageDescr.131072","iso.3.6.1.2.1.25.2.3.1.3.131072","STRING","system disk"
+"HOST-RESOURCES-MIB::hrStorageAllocationUnits.65536","iso.3.6.1.2.1.25.2.3.1.4.65536","INTEGER",1024
+"HOST-RESOURCES-MIB::hrStorageAllocationUnits.131072","iso.3.6.1.2.1.25.2.3.1.4.131072","INTEGER",1024
+"HOST-RESOURCES-MIB::hrStorageSize.65536","iso.3.6.1.2.1.25.2.3.1.5.65536","INTEGER",131072
+"HOST-RESOURCES-MIB::hrStorageSize.131072","iso.3.6.1.2.1.25.2.3.1.5.131072","INTEGER",16384
+"HOST-RESOURCES-MIB::hrStorageUsed.65536","iso.3.6.1.2.1.25.2.3.1.6.65536","INTEGER",39844
+"HOST-RESOURCES-MIB::hrStorageUsed.131072","iso.3.6.1.2.1.25.2.3.1.6.131072","INTEGER",12544
+"HOST-RESOURCES-MIB::hrStorageAllocationFailures.65536","iso.3.6.1.2.1.25.2.3.1.7.65536","Counter32",0
+"HOST-RESOURCES-MIB::hrStorageAllocationFailures.131072","iso.3.6.1.2.1.25.2.3.1.7.131072","Counter32",0
+"HOST-RESOURCES-MIB::hrDeviceIndex.1","iso.3.6.1.2.1.25.3.2.1.1.1","INTEGER",1
+"HOST-RESOURCES-MIB::hrDeviceType.1","iso.3.6.1.2.1.25.3.2.1.2.1","OID","iso.3.6.1.2.1.25.3.1.3"
+"HOST-RESOURCES-MIB::hrDeviceDescr.1","iso.3.6.1.2.1.25.3.2.1.3.1",,
+"HOST-RESOURCES-MIB::hrDeviceID.1","iso.3.6.1.2.1.25.3.2.1.4.1","OID","ccitt.0"
+"HOST-RESOURCES-MIB::hrDeviceStatus.1","iso.3.6.1.2.1.25.3.2.1.5.1","INTEGER",2
+"HOST-RESOURCES-MIB::hrDeviceErrors.1","iso.3.6.1.2.1.25.3.2.1.6.1","Counter32",0
+"HOST-RESOURCES-MIB::hrProcessorFrwID.1","iso.3.6.1.2.1.25.3.3.1.1.1","OID","ccitt.0"
+"HOST-RESOURCES-MIB::hrProcessorLoad.1","iso.3.6.1.2.1.25.3.3.1.2.1","INTEGER",5
+"IF-MIB::ifName.1","iso.3.6.1.2.1.31.1.1.1.1.1","STRING","wlan1"
+"IF-MIB::ifName.2","iso.3.6.1.2.1.31.1.1.1.1.2","STRING","ether1"
+"IF-MIB::ifName.3","iso.3.6.1.2.1.31.1.1.1.1.3","STRING","ether2"
+"IF-MIB::ifName.4","iso.3.6.1.2.1.31.1.1.1.1.4","STRING","ether3"
+"IF-MIB::ifName.5","iso.3.6.1.2.1.31.1.1.1.1.5","STRING","ether4"
+"IF-MIB::ifName.6","iso.3.6.1.2.1.31.1.1.1.1.6","STRING","ether5"
+"IF-MIB::ifName.7","iso.3.6.1.2.1.31.1.1.1.1.7","STRING","sfp1"
+"IF-MIB::ifName.8","iso.3.6.1.2.1.31.1.1.1.1.8","STRING","wlan2"
+"IF-MIB::ifName.9","iso.3.6.1.2.1.31.1.1.1.1.9","STRING","bridge-local"
+"IF-MIB::ifName.10","iso.3.6.1.2.1.31.1.1.1.1.10","STRING","24--hap8890-1"
+"IF-MIB::ifName.11","iso.3.6.1.2.1.31.1.1.1.1.11","STRING","5--hap8890-1"
+"IF-MIB::ifName.180","iso.3.6.1.2.1.31.1.1.1.1.180","STRING","24--hap5f6b-1"
+"IF-MIB::ifName.181","iso.3.6.1.2.1.31.1.1.1.1.181","STRING","5--hap5f6b-1"
+"IF-MIB::ifName.186","iso.3.6.1.2.1.31.1.1.1.1.186","STRING","24--hap26a3-1"
+"IF-MIB::ifName.187","iso.3.6.1.2.1.31.1.1.1.1.187","STRING","5--hap26a3-1"
+"IF-MIB::ifInMulticastPkts.1","iso.3.6.1.2.1.31.1.1.1.2.1","Counter32",0
+"IF-MIB::ifInMulticastPkts.2","iso.3.6.1.2.1.31.1.1.1.2.2","Counter32",0
+"IF-MIB::ifInMulticastPkts.3","iso.3.6.1.2.1.31.1.1.1.2.3","Counter32",0
+"IF-MIB::ifInMulticastPkts.4","iso.3.6.1.2.1.31.1.1.1.2.4","Counter32",0
+"IF-MIB::ifInMulticastPkts.5","iso.3.6.1.2.1.31.1.1.1.2.5","Counter32",0
+"IF-MIB::ifInMulticastPkts.6","iso.3.6.1.2.1.31.1.1.1.2.6","Counter32",0
+"IF-MIB::ifInMulticastPkts.7","iso.3.6.1.2.1.31.1.1.1.2.7","Counter32",0
+"IF-MIB::ifInMulticastPkts.8","iso.3.6.1.2.1.31.1.1.1.2.8","Counter32",0
+"IF-MIB::ifInMulticastPkts.9","iso.3.6.1.2.1.31.1.1.1.2.9","Counter32",0
+"IF-MIB::ifInMulticastPkts.10","iso.3.6.1.2.1.31.1.1.1.2.10","Counter32",0
+"IF-MIB::ifInMulticastPkts.11","iso.3.6.1.2.1.31.1.1.1.2.11","Counter32",0
+"IF-MIB::ifInMulticastPkts.180","iso.3.6.1.2.1.31.1.1.1.2.180","Counter32",0
+"IF-MIB::ifInMulticastPkts.181","iso.3.6.1.2.1.31.1.1.1.2.181","Counter32",0
+"IF-MIB::ifInMulticastPkts.186","iso.3.6.1.2.1.31.1.1.1.2.186","Counter32",0
+"IF-MIB::ifInMulticastPkts.187","iso.3.6.1.2.1.31.1.1.1.2.187","Counter32",0
+"IF-MIB::ifInBroadcastPkts.1","iso.3.6.1.2.1.31.1.1.1.3.1","Counter32",0
+"IF-MIB::ifInBroadcastPkts.2","iso.3.6.1.2.1.31.1.1.1.3.2","Counter32",0
+"IF-MIB::ifInBroadcastPkts.3","iso.3.6.1.2.1.31.1.1.1.3.3","Counter32",0
+"IF-MIB::ifInBroadcastPkts.4","iso.3.6.1.2.1.31.1.1.1.3.4","Counter32",0
+"IF-MIB::ifInBroadcastPkts.5","iso.3.6.1.2.1.31.1.1.1.3.5","Counter32",0
+"IF-MIB::ifInBroadcastPkts.6","iso.3.6.1.2.1.31.1.1.1.3.6","Counter32",0
+"IF-MIB::ifInBroadcastPkts.7","iso.3.6.1.2.1.31.1.1.1.3.7","Counter32",0
+"IF-MIB::ifInBroadcastPkts.8","iso.3.6.1.2.1.31.1.1.1.3.8","Counter32",0
+"IF-MIB::ifInBroadcastPkts.9","iso.3.6.1.2.1.31.1.1.1.3.9","Counter32",0
+"IF-MIB::ifInBroadcastPkts.10","iso.3.6.1.2.1.31.1.1.1.3.10","Counter32",0
+"IF-MIB::ifInBroadcastPkts.11","iso.3.6.1.2.1.31.1.1.1.3.11","Counter32",0
+"IF-MIB::ifInBroadcastPkts.180","iso.3.6.1.2.1.31.1.1.1.3.180","Counter32",0
+"IF-MIB::ifInBroadcastPkts.181","iso.3.6.1.2.1.31.1.1.1.3.181","Counter32",0
+"IF-MIB::ifInBroadcastPkts.186","iso.3.6.1.2.1.31.1.1.1.3.186","Counter32",0
+"IF-MIB::ifInBroadcastPkts.187","iso.3.6.1.2.1.31.1.1.1.3.187","Counter32",0
+"IF-MIB::ifOutMulticastPkts.1","iso.3.6.1.2.1.31.1.1.1.4.1","Counter32",0
+"IF-MIB::ifOutMulticastPkts.2","iso.3.6.1.2.1.31.1.1.1.4.2","Counter32",0
+"IF-MIB::ifOutMulticastPkts.3","iso.3.6.1.2.1.31.1.1.1.4.3","Counter32",0
+"IF-MIB::ifOutMulticastPkts.4","iso.3.6.1.2.1.31.1.1.1.4.4","Counter32",0
+"IF-MIB::ifOutMulticastPkts.5","iso.3.6.1.2.1.31.1.1.1.4.5","Counter32",0
+"IF-MIB::ifOutMulticastPkts.6","iso.3.6.1.2.1.31.1.1.1.4.6","Counter32",0
+"IF-MIB::ifOutMulticastPkts.7","iso.3.6.1.2.1.31.1.1.1.4.7","Counter32",0
+"IF-MIB::ifOutMulticastPkts.8","iso.3.6.1.2.1.31.1.1.1.4.8","Counter32",0
+"IF-MIB::ifOutMulticastPkts.9","iso.3.6.1.2.1.31.1.1.1.4.9","Counter32",0
+"IF-MIB::ifOutMulticastPkts.10","iso.3.6.1.2.1.31.1.1.1.4.10","Counter32",0
+"IF-MIB::ifOutMulticastPkts.11","iso.3.6.1.2.1.31.1.1.1.4.11","Counter32",0
+"IF-MIB::ifOutMulticastPkts.180","iso.3.6.1.2.1.31.1.1.1.4.180","Counter32",0
+"IF-MIB::ifOutMulticastPkts.181","iso.3.6.1.2.1.31.1.1.1.4.181","Counter32",0
+"IF-MIB::ifOutMulticastPkts.186","iso.3.6.1.2.1.31.1.1.1.4.186","Counter32",0
+"IF-MIB::ifOutMulticastPkts.187","iso.3.6.1.2.1.31.1.1.1.4.187","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.1","iso.3.6.1.2.1.31.1.1.1.5.1","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.2","iso.3.6.1.2.1.31.1.1.1.5.2","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.3","iso.3.6.1.2.1.31.1.1.1.5.3","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.4","iso.3.6.1.2.1.31.1.1.1.5.4","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.5","iso.3.6.1.2.1.31.1.1.1.5.5","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.6","iso.3.6.1.2.1.31.1.1.1.5.6","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.7","iso.3.6.1.2.1.31.1.1.1.5.7","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.8","iso.3.6.1.2.1.31.1.1.1.5.8","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.9","iso.3.6.1.2.1.31.1.1.1.5.9","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.10","iso.3.6.1.2.1.31.1.1.1.5.10","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.11","iso.3.6.1.2.1.31.1.1.1.5.11","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.180","iso.3.6.1.2.1.31.1.1.1.5.180","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.181","iso.3.6.1.2.1.31.1.1.1.5.181","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.186","iso.3.6.1.2.1.31.1.1.1.5.186","Counter32",0
+"IF-MIB::ifOutBroadcastPkts.187","iso.3.6.1.2.1.31.1.1.1.5.187","Counter32",0
+"IF-MIB::ifHCInOctets.1","iso.3.6.1.2.1.31.1.1.1.6.1","Counter64",137884741
+"IF-MIB::ifHCInOctets.2","iso.3.6.1.2.1.31.1.1.1.6.2","Counter64",157902397238
+"IF-MIB::ifHCInOctets.3","iso.3.6.1.2.1.31.1.1.1.6.3","Counter64",216258471
+"IF-MIB::ifHCInOctets.4","iso.3.6.1.2.1.31.1.1.1.6.4","Counter64",0
+"IF-MIB::ifHCInOctets.5","iso.3.6.1.2.1.31.1.1.1.6.5","Counter64",5445143142
+"IF-MIB::ifHCInOctets.6","iso.3.6.1.2.1.31.1.1.1.6.6","Counter64",2124315440
+"IF-MIB::ifHCInOctets.7","iso.3.6.1.2.1.31.1.1.1.6.7","Counter64",0
+"IF-MIB::ifHCInOctets.8","iso.3.6.1.2.1.31.1.1.1.6.8","Counter64",4212782569
+"IF-MIB::ifHCInOctets.9","iso.3.6.1.2.1.31.1.1.1.6.9","Counter64",9406147165
+"IF-MIB::ifHCInOctets.10","iso.3.6.1.2.1.31.1.1.1.6.10","Counter64",0
+"IF-MIB::ifHCInOctets.11","iso.3.6.1.2.1.31.1.1.1.6.11","Counter64",0
+"IF-MIB::ifHCInOctets.180","iso.3.6.1.2.1.31.1.1.1.6.180","Counter64",0
+"IF-MIB::ifHCInOctets.181","iso.3.6.1.2.1.31.1.1.1.6.181","Counter64",0
+"IF-MIB::ifHCInOctets.186","iso.3.6.1.2.1.31.1.1.1.6.186","Counter64",0
+"IF-MIB::ifHCInOctets.187","iso.3.6.1.2.1.31.1.1.1.6.187","Counter64",0
+"IF-MIB::ifHCInUcastPkts.1","iso.3.6.1.2.1.31.1.1.1.7.1","Counter64",1180217
+"IF-MIB::ifHCInUcastPkts.2","iso.3.6.1.2.1.31.1.1.1.7.2","Counter64",116819523
+"IF-MIB::ifHCInUcastPkts.3","iso.3.6.1.2.1.31.1.1.1.7.3","Counter64",2836406
+"IF-MIB::ifHCInUcastPkts.4","iso.3.6.1.2.1.31.1.1.1.7.4","Counter64",0
+"IF-MIB::ifHCInUcastPkts.5","iso.3.6.1.2.1.31.1.1.1.7.5","Counter64",25451467
+"IF-MIB::ifHCInUcastPkts.6","iso.3.6.1.2.1.31.1.1.1.7.6","Counter64",13840077
+"IF-MIB::ifHCInUcastPkts.7","iso.3.6.1.2.1.31.1.1.1.7.7","Counter64",0
+"IF-MIB::ifHCInUcastPkts.8","iso.3.6.1.2.1.31.1.1.1.7.8","Counter64",34723666
+"IF-MIB::ifHCInUcastPkts.9","iso.3.6.1.2.1.31.1.1.1.7.9","Counter64",61516059
+"IF-MIB::ifHCInUcastPkts.10","iso.3.6.1.2.1.31.1.1.1.7.10","Counter64",0
+"IF-MIB::ifHCInUcastPkts.11","iso.3.6.1.2.1.31.1.1.1.7.11","Counter64",0
+"IF-MIB::ifHCInUcastPkts.180","iso.3.6.1.2.1.31.1.1.1.7.180","Counter64",0
+"IF-MIB::ifHCInUcastPkts.181","iso.3.6.1.2.1.31.1.1.1.7.181","Counter64",0
+"IF-MIB::ifHCInUcastPkts.186","iso.3.6.1.2.1.31.1.1.1.7.186","Counter64",0
+"IF-MIB::ifHCInUcastPkts.187","iso.3.6.1.2.1.31.1.1.1.7.187","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.1","iso.3.6.1.2.1.31.1.1.1.8.1","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.2","iso.3.6.1.2.1.31.1.1.1.8.2","Counter64",376801
+"IF-MIB::ifHCInMulticastPkts.3","iso.3.6.1.2.1.31.1.1.1.8.3","Counter64",759
+"IF-MIB::ifHCInMulticastPkts.4","iso.3.6.1.2.1.31.1.1.1.8.4","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.5","iso.3.6.1.2.1.31.1.1.1.8.5","Counter64",904853
+"IF-MIB::ifHCInMulticastPkts.6","iso.3.6.1.2.1.31.1.1.1.8.6","Counter64",256012
+"IF-MIB::ifHCInMulticastPkts.7","iso.3.6.1.2.1.31.1.1.1.8.7","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.8","iso.3.6.1.2.1.31.1.1.1.8.8","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.9","iso.3.6.1.2.1.31.1.1.1.8.9","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.10","iso.3.6.1.2.1.31.1.1.1.8.10","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.11","iso.3.6.1.2.1.31.1.1.1.8.11","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.180","iso.3.6.1.2.1.31.1.1.1.8.180","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.181","iso.3.6.1.2.1.31.1.1.1.8.181","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.186","iso.3.6.1.2.1.31.1.1.1.8.186","Counter64",0
+"IF-MIB::ifHCInMulticastPkts.187","iso.3.6.1.2.1.31.1.1.1.8.187","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.1","iso.3.6.1.2.1.31.1.1.1.9.1","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.2","iso.3.6.1.2.1.31.1.1.1.9.2","Counter64",128541
+"IF-MIB::ifHCInBroadcastPkts.3","iso.3.6.1.2.1.31.1.1.1.9.3","Counter64",4354
+"IF-MIB::ifHCInBroadcastPkts.4","iso.3.6.1.2.1.31.1.1.1.9.4","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.5","iso.3.6.1.2.1.31.1.1.1.9.5","Counter64",152010
+"IF-MIB::ifHCInBroadcastPkts.6","iso.3.6.1.2.1.31.1.1.1.9.6","Counter64",47803
+"IF-MIB::ifHCInBroadcastPkts.7","iso.3.6.1.2.1.31.1.1.1.9.7","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.8","iso.3.6.1.2.1.31.1.1.1.9.8","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.9","iso.3.6.1.2.1.31.1.1.1.9.9","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.10","iso.3.6.1.2.1.31.1.1.1.9.10","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.11","iso.3.6.1.2.1.31.1.1.1.9.11","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.180","iso.3.6.1.2.1.31.1.1.1.9.180","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.181","iso.3.6.1.2.1.31.1.1.1.9.181","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.186","iso.3.6.1.2.1.31.1.1.1.9.186","Counter64",0
+"IF-MIB::ifHCInBroadcastPkts.187","iso.3.6.1.2.1.31.1.1.1.9.187","Counter64",0
+"IF-MIB::ifHCOutOctets.1","iso.3.6.1.2.1.31.1.1.1.10.1","Counter64",1197997307
+"IF-MIB::ifHCOutOctets.2","iso.3.6.1.2.1.31.1.1.1.10.2","Counter64",8142747413
+"IF-MIB::ifHCOutOctets.3","iso.3.6.1.2.1.31.1.1.1.10.3","Counter64",10474742897
+"IF-MIB::ifHCOutOctets.4","iso.3.6.1.2.1.31.1.1.1.10.4","Counter64",0
+"IF-MIB::ifHCOutOctets.5","iso.3.6.1.2.1.31.1.1.1.10.5","Counter64",35094453611
+"IF-MIB::ifHCOutOctets.6","iso.3.6.1.2.1.31.1.1.1.10.6","Counter64",21020572888
+"IF-MIB::ifHCOutOctets.7","iso.3.6.1.2.1.31.1.1.1.10.7","Counter64",0
+"IF-MIB::ifHCOutOctets.8","iso.3.6.1.2.1.31.1.1.1.10.8","Counter64",97903203072
+"IF-MIB::ifHCOutOctets.9","iso.3.6.1.2.1.31.1.1.1.10.9","Counter64",160851665167
+"IF-MIB::ifHCOutOctets.10","iso.3.6.1.2.1.31.1.1.1.10.10","Counter64",64
+"IF-MIB::ifHCOutOctets.11","iso.3.6.1.2.1.31.1.1.1.10.11","Counter64",64
+"IF-MIB::ifHCOutOctets.180","iso.3.6.1.2.1.31.1.1.1.10.180","Counter64",154
+"IF-MIB::ifHCOutOctets.181","iso.3.6.1.2.1.31.1.1.1.10.181","Counter64",154
+"IF-MIB::ifHCOutOctets.186","iso.3.6.1.2.1.31.1.1.1.10.186","Counter64",298
+"IF-MIB::ifHCOutOctets.187","iso.3.6.1.2.1.31.1.1.1.10.187","Counter64",220
+"IF-MIB::ifHCOutUcastPkts.1","iso.3.6.1.2.1.31.1.1.1.11.1","Counter64",5058762
+"IF-MIB::ifHCOutUcastPkts.2","iso.3.6.1.2.1.31.1.1.1.11.2","Counter64",52113409
+"IF-MIB::ifHCOutUcastPkts.3","iso.3.6.1.2.1.31.1.1.1.11.3","Counter64",7369744
+"IF-MIB::ifHCOutUcastPkts.4","iso.3.6.1.2.1.31.1.1.1.11.4","Counter64",0
+"IF-MIB::ifHCOutUcastPkts.5","iso.3.6.1.2.1.31.1.1.1.11.5","Counter64",37217576
+"IF-MIB::ifHCOutUcastPkts.6","iso.3.6.1.2.1.31.1.1.1.11.6","Counter64",21873686
+"IF-MIB::ifHCOutUcastPkts.7","iso.3.6.1.2.1.31.1.1.1.11.7","Counter64",0
+"IF-MIB::ifHCOutUcastPkts.8","iso.3.6.1.2.1.31.1.1.1.11.8","Counter64",78207514
+"IF-MIB::ifHCOutUcastPkts.9","iso.3.6.1.2.1.31.1.1.1.11.9","Counter64",121882465
+"IF-MIB::ifHCOutUcastPkts.10","iso.3.6.1.2.1.31.1.1.1.11.10","Counter64",1
+"IF-MIB::ifHCOutUcastPkts.11","iso.3.6.1.2.1.31.1.1.1.11.11","Counter64",1
+"IF-MIB::ifHCOutUcastPkts.180","iso.3.6.1.2.1.31.1.1.1.11.180","Counter64",2
+"IF-MIB::ifHCOutUcastPkts.181","iso.3.6.1.2.1.31.1.1.1.11.181","Counter64",2
+"IF-MIB::ifHCOutUcastPkts.186","iso.3.6.1.2.1.31.1.1.1.11.186","Counter64",3
+"IF-MIB::ifHCOutUcastPkts.187","iso.3.6.1.2.1.31.1.1.1.11.187","Counter64",2
+"IF-MIB::ifHCOutMulticastPkts.1","iso.3.6.1.2.1.31.1.1.1.12.1","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.2","iso.3.6.1.2.1.31.1.1.1.12.2","Counter64",2096
+"IF-MIB::ifHCOutMulticastPkts.3","iso.3.6.1.2.1.31.1.1.1.12.3","Counter64",278797
+"IF-MIB::ifHCOutMulticastPkts.4","iso.3.6.1.2.1.31.1.1.1.12.4","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.5","iso.3.6.1.2.1.31.1.1.1.12.5","Counter64",2232338
+"IF-MIB::ifHCOutMulticastPkts.6","iso.3.6.1.2.1.31.1.1.1.12.6","Counter64",3089984
+"IF-MIB::ifHCOutMulticastPkts.7","iso.3.6.1.2.1.31.1.1.1.12.7","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.8","iso.3.6.1.2.1.31.1.1.1.12.8","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.9","iso.3.6.1.2.1.31.1.1.1.12.9","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.10","iso.3.6.1.2.1.31.1.1.1.12.10","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.11","iso.3.6.1.2.1.31.1.1.1.12.11","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.180","iso.3.6.1.2.1.31.1.1.1.12.180","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.181","iso.3.6.1.2.1.31.1.1.1.12.181","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.186","iso.3.6.1.2.1.31.1.1.1.12.186","Counter64",0
+"IF-MIB::ifHCOutMulticastPkts.187","iso.3.6.1.2.1.31.1.1.1.12.187","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.1","iso.3.6.1.2.1.31.1.1.1.13.1","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.2","iso.3.6.1.2.1.31.1.1.1.13.2","Counter64",148516
+"IF-MIB::ifHCOutBroadcastPkts.3","iso.3.6.1.2.1.31.1.1.1.13.3","Counter64",45376
+"IF-MIB::ifHCOutBroadcastPkts.4","iso.3.6.1.2.1.31.1.1.1.13.4","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.5","iso.3.6.1.2.1.31.1.1.1.13.5","Counter64",128399
+"IF-MIB::ifHCOutBroadcastPkts.6","iso.3.6.1.2.1.31.1.1.1.13.6","Counter64",245605
+"IF-MIB::ifHCOutBroadcastPkts.7","iso.3.6.1.2.1.31.1.1.1.13.7","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.8","iso.3.6.1.2.1.31.1.1.1.13.8","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.9","iso.3.6.1.2.1.31.1.1.1.13.9","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.10","iso.3.6.1.2.1.31.1.1.1.13.10","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.11","iso.3.6.1.2.1.31.1.1.1.13.11","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.180","iso.3.6.1.2.1.31.1.1.1.13.180","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.181","iso.3.6.1.2.1.31.1.1.1.13.181","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.186","iso.3.6.1.2.1.31.1.1.1.13.186","Counter64",0
+"IF-MIB::ifHCOutBroadcastPkts.187","iso.3.6.1.2.1.31.1.1.1.13.187","Counter64",0
+"IF-MIB::ifHighSpeed.1","iso.3.6.1.2.1.31.1.1.1.15.1","Gauge32",50
+"IF-MIB::ifHighSpeed.2","iso.3.6.1.2.1.31.1.1.1.15.2","Gauge32",1000
+"IF-MIB::ifHighSpeed.3","iso.3.6.1.2.1.31.1.1.1.15.3","Gauge32",0
+"IF-MIB::ifHighSpeed.4","iso.3.6.1.2.1.31.1.1.1.15.4","Gauge32",0
+"IF-MIB::ifHighSpeed.5","iso.3.6.1.2.1.31.1.1.1.15.5","Gauge32",1000
+"IF-MIB::ifHighSpeed.6","iso.3.6.1.2.1.31.1.1.1.15.6","Gauge32",100
+"IF-MIB::ifHighSpeed.7","iso.3.6.1.2.1.31.1.1.1.15.7","Gauge32",0
+"IF-MIB::ifHighSpeed.8","iso.3.6.1.2.1.31.1.1.1.15.8","Gauge32",50
+"IF-MIB::ifHighSpeed.9","iso.3.6.1.2.1.31.1.1.1.15.9","Gauge32",0
+"IF-MIB::ifHighSpeed.10","iso.3.6.1.2.1.31.1.1.1.15.10","Gauge32",10
+"IF-MIB::ifHighSpeed.11","iso.3.6.1.2.1.31.1.1.1.15.11","Gauge32",10
+"IF-MIB::ifHighSpeed.180","iso.3.6.1.2.1.31.1.1.1.15.180","Gauge32",10
+"IF-MIB::ifHighSpeed.181","iso.3.6.1.2.1.31.1.1.1.15.181","Gauge32",10
+"IF-MIB::ifHighSpeed.186","iso.3.6.1.2.1.31.1.1.1.15.186","Gauge32",10
+"IF-MIB::ifHighSpeed.187","iso.3.6.1.2.1.31.1.1.1.15.187","Gauge32",10
+"IF-MIB::ifAlias.1","iso.3.6.1.2.1.31.1.1.1.18.1",,
+"IF-MIB::ifAlias.2","iso.3.6.1.2.1.31.1.1.1.18.2",,
+"IF-MIB::ifAlias.3","iso.3.6.1.2.1.31.1.1.1.18.3",,
+"IF-MIB::ifAlias.4","iso.3.6.1.2.1.31.1.1.1.18.4",,
+"IF-MIB::ifAlias.5","iso.3.6.1.2.1.31.1.1.1.18.5",,
+"IF-MIB::ifAlias.6","iso.3.6.1.2.1.31.1.1.1.18.6",,
+"IF-MIB::ifAlias.7","iso.3.6.1.2.1.31.1.1.1.18.7",,
+"IF-MIB::ifAlias.8","iso.3.6.1.2.1.31.1.1.1.18.8",,
+"IF-MIB::ifAlias.9","iso.3.6.1.2.1.31.1.1.1.18.9","STRING","This is a comment"
+"IF-MIB::ifAlias.10","iso.3.6.1.2.1.31.1.1.1.18.10",,
+"IF-MIB::ifAlias.11","iso.3.6.1.2.1.31.1.1.1.18.11",,
+"IF-MIB::ifAlias.180","iso.3.6.1.2.1.31.1.1.1.18.180",,
+"IF-MIB::ifAlias.181","iso.3.6.1.2.1.31.1.1.1.18.181",,
+"IF-MIB::ifAlias.186","iso.3.6.1.2.1.31.1.1.1.18.186",,
+"IF-MIB::ifAlias.187","iso.3.6.1.2.1.31.1.1.1.18.187",,
+"ENTITY-MIB::entPhysicalIndex.65536","iso.3.6.1.2.1.47.1.1.1.1.1.65536","INTEGER",65536
+"ENTITY-MIB::entPhysicalIndex.131073","iso.3.6.1.2.1.47.1.1.1.1.1.131073","INTEGER",131073
+"ENTITY-MIB::entPhysicalIndex.262145","iso.3.6.1.2.1.47.1.1.1.1.1.262145","INTEGER",262145
+"ENTITY-MIB::entPhysicalDescr.65536","iso.3.6.1.2.1.47.1.1.1.1.2.65536","STRING","RouterOS 6.45.5 (stable) on RB962UiGS-5HacT2HnT"
+"ENTITY-MIB::entPhysicalDescr.131073","iso.3.6.1.2.1.47.1.1.1.1.2.131073","STRING","Atheros Communications Inc. unknown device (rev: 0)"
+"ENTITY-MIB::entPhysicalDescr.262145","iso.3.6.1.2.1.47.1.1.1.1.2.262145","STRING","Linux 3.3.5 ehci_hcd RB400 EHCI"
+"ENTITY-MIB::entPhysicalVendorType.65536","iso.3.6.1.2.1.47.1.1.1.1.3.65536","OID","ccitt.0"
+"ENTITY-MIB::entPhysicalVendorType.131073","iso.3.6.1.2.1.47.1.1.1.1.3.131073","OID","ccitt.0"
+"ENTITY-MIB::entPhysicalVendorType.262145","iso.3.6.1.2.1.47.1.1.1.1.3.262145","OID","ccitt.0"
+"ENTITY-MIB::entPhysicalContainedIn.65536","iso.3.6.1.2.1.47.1.1.1.1.4.65536","INTEGER",0
+"ENTITY-MIB::entPhysicalContainedIn.131073","iso.3.6.1.2.1.47.1.1.1.1.4.131073","INTEGER",65536
+"ENTITY-MIB::entPhysicalContainedIn.262145","iso.3.6.1.2.1.47.1.1.1.1.4.262145","INTEGER",65536
+"ENTITY-MIB::entPhysicalClass.65536","iso.3.6.1.2.1.47.1.1.1.1.5.65536","INTEGER",3
+"ENTITY-MIB::entPhysicalClass.131073","iso.3.6.1.2.1.47.1.1.1.1.5.131073","INTEGER",2
+"ENTITY-MIB::entPhysicalClass.262145","iso.3.6.1.2.1.47.1.1.1.1.5.262145","INTEGER",2
+"ENTITY-MIB::entPhysicalParentRelPos.65536","iso.3.6.1.2.1.47.1.1.1.1.6.65536","INTEGER",-1
+"ENTITY-MIB::entPhysicalParentRelPos.131073","iso.3.6.1.2.1.47.1.1.1.1.6.131073","INTEGER",-1
+"ENTITY-MIB::entPhysicalParentRelPos.262145","iso.3.6.1.2.1.47.1.1.1.1.6.262145","INTEGER",-1
+"ENTITY-MIB::entPhysicalName.65536","iso.3.6.1.2.1.47.1.1.1.1.7.65536","STRING","MIPS 74Kc V5.0"
+"ENTITY-MIB::entPhysicalName.131073","iso.3.6.1.2.1.47.1.1.1.1.7.131073","STRING","00:1:00/00.0"
+"ENTITY-MIB::entPhysicalName.262145","iso.3.6.1.2.1.47.1.1.1.1.7.262145","STRING","1-0"
+"ENTITY-MIB::entPhysicalHardwareRev.65536","iso.3.6.1.2.1.47.1.1.1.1.8.65536",,
+"ENTITY-MIB::entPhysicalHardwareRev.131073","iso.3.6.1.2.1.47.1.1.1.1.8.131073",,
+"ENTITY-MIB::entPhysicalHardwareRev.262145","iso.3.6.1.2.1.47.1.1.1.1.8.262145",,
+"ENTITY-MIB::entPhysicalFirmwareRev.65536","iso.3.6.1.2.1.47.1.1.1.1.9.65536",,
+"ENTITY-MIB::entPhysicalFirmwareRev.131073","iso.3.6.1.2.1.47.1.1.1.1.9.131073",,
+"ENTITY-MIB::entPhysicalFirmwareRev.262145","iso.3.6.1.2.1.47.1.1.1.1.9.262145",,
+"ENTITY-MIB::entPhysicalSoftwareRev.65536","iso.3.6.1.2.1.47.1.1.1.1.10.65536",,
+"ENTITY-MIB::entPhysicalSoftwareRev.131073","iso.3.6.1.2.1.47.1.1.1.1.10.131073",,
+"ENTITY-MIB::entPhysicalSoftwareRev.262145","iso.3.6.1.2.1.47.1.1.1.1.10.262145",,
+"ENTITY-MIB::entPhysicalSerialNum.65536","iso.3.6.1.2.1.47.1.1.1.1.11.65536",,
+"ENTITY-MIB::entPhysicalSerialNum.131073","iso.3.6.1.2.1.47.1.1.1.1.11.131073",,
+"ENTITY-MIB::entPhysicalSerialNum.262145","iso.3.6.1.2.1.47.1.1.1.1.11.262145","STRING","rb400_usb"
+"ENTITY-MIB::entPhysicalMfgName.65536","iso.3.6.1.2.1.47.1.1.1.1.12.65536",,
+"ENTITY-MIB::entPhysicalMfgName.131073","iso.3.6.1.2.1.47.1.1.1.1.12.131073","STRING","0x168c"
+"ENTITY-MIB::entPhysicalMfgName.262145","iso.3.6.1.2.1.47.1.1.1.1.12.262145","STRING","0x1d6b"
+"ENTITY-MIB::entPhysicalModelName.65536","iso.3.6.1.2.1.47.1.1.1.1.13.65536",,
+"ENTITY-MIB::entPhysicalModelName.131073","iso.3.6.1.2.1.47.1.1.1.1.13.131073","STRING","0x003c"
+"ENTITY-MIB::entPhysicalModelName.262145","iso.3.6.1.2.1.47.1.1.1.1.13.262145","STRING","0x0002"
+"ENTITY-MIB::entPhysicalAlias.65536","iso.3.6.1.2.1.47.1.1.1.1.14.65536",,
+"ENTITY-MIB::entPhysicalAlias.131073","iso.3.6.1.2.1.47.1.1.1.1.14.131073",,
+"ENTITY-MIB::entPhysicalAlias.262145","iso.3.6.1.2.1.47.1.1.1.1.14.262145",,
+"ENTITY-MIB::entPhysicalAssetID.65536","iso.3.6.1.2.1.47.1.1.1.1.15.65536",,
+"ENTITY-MIB::entPhysicalAssetID.131073","iso.3.6.1.2.1.47.1.1.1.1.15.131073",,
+"ENTITY-MIB::entPhysicalAssetID.262145","iso.3.6.1.2.1.47.1.1.1.1.15.262145",,
+"ENTITY-MIB::entPhysicalIsFRU.65536","iso.3.6.1.2.1.47.1.1.1.1.16.65536","INTEGER",2
+"ENTITY-MIB::entPhysicalIsFRU.131073","iso.3.6.1.2.1.47.1.1.1.1.16.131073","INTEGER",2
+"ENTITY-MIB::entPhysicalIsFRU.262145","iso.3.6.1.2.1.47.1.1.1.1.16.262145","INTEGER",2
+"IPV6-MIB::ipv6Interfaces.0","iso.3.6.1.2.1.55.1.3.0","Gauge32",15
+"IPV6-MIB::ipv6IfDescr.1","iso.3.6.1.2.1.55.1.5.1.2.1","STRING","wlan1"
+"IPV6-MIB::ipv6IfDescr.2","iso.3.6.1.2.1.55.1.5.1.2.2","STRING","ether1"
+"IPV6-MIB::ipv6IfDescr.3","iso.3.6.1.2.1.55.1.5.1.2.3","STRING","ether2"
+"IPV6-MIB::ipv6IfDescr.4","iso.3.6.1.2.1.55.1.5.1.2.4","STRING","ether3"
+"IPV6-MIB::ipv6IfDescr.5","iso.3.6.1.2.1.55.1.5.1.2.5","STRING","ether4"
+"IPV6-MIB::ipv6IfDescr.6","iso.3.6.1.2.1.55.1.5.1.2.6","STRING","ether5"
+"IPV6-MIB::ipv6IfDescr.7","iso.3.6.1.2.1.55.1.5.1.2.7","STRING","sfp1"
+"IPV6-MIB::ipv6IfDescr.8","iso.3.6.1.2.1.55.1.5.1.2.8","STRING","wlan2"
+"IPV6-MIB::ipv6IfDescr.9","iso.3.6.1.2.1.55.1.5.1.2.9","STRING","bridge-local - This is a comment"
+"IPV6-MIB::ipv6IfDescr.10","iso.3.6.1.2.1.55.1.5.1.2.10","STRING","24--hap8890-1"
+"IPV6-MIB::ipv6IfDescr.11","iso.3.6.1.2.1.55.1.5.1.2.11","STRING","5--hap8890-1"
+"IPV6-MIB::ipv6IfDescr.180","iso.3.6.1.2.1.55.1.5.1.2.180","STRING","24--hap5f6b-1"
+"IPV6-MIB::ipv6IfDescr.181","iso.3.6.1.2.1.55.1.5.1.2.181","STRING","5--hap5f6b-1"
+"IPV6-MIB::ipv6IfDescr.186","iso.3.6.1.2.1.55.1.5.1.2.186","STRING","24--hap26a3-1"
+"IPV6-MIB::ipv6IfDescr.187","iso.3.6.1.2.1.55.1.5.1.2.187","STRING","5--hap26a3-1"
+"IPV6-MIB::ipv6IfLowerLayer.1","iso.3.6.1.2.1.55.1.5.1.3.1","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.2","iso.3.6.1.2.1.55.1.5.1.3.2","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.3","iso.3.6.1.2.1.55.1.5.1.3.3","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.4","iso.3.6.1.2.1.55.1.5.1.3.4","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.5","iso.3.6.1.2.1.55.1.5.1.3.5","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.6","iso.3.6.1.2.1.55.1.5.1.3.6","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.7","iso.3.6.1.2.1.55.1.5.1.3.7","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.8","iso.3.6.1.2.1.55.1.5.1.3.8","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.9","iso.3.6.1.2.1.55.1.5.1.3.9","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.10","iso.3.6.1.2.1.55.1.5.1.3.10","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.11","iso.3.6.1.2.1.55.1.5.1.3.11","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.180","iso.3.6.1.2.1.55.1.5.1.3.180","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.181","iso.3.6.1.2.1.55.1.5.1.3.181","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.186","iso.3.6.1.2.1.55.1.5.1.3.186","OID","ccitt.0"
+"IPV6-MIB::ipv6IfLowerLayer.187","iso.3.6.1.2.1.55.1.5.1.3.187","OID","ccitt.0"
+"IPV6-MIB::ipv6IfEffectiveMtu.1","iso.3.6.1.2.1.55.1.5.1.4.1","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.2","iso.3.6.1.2.1.55.1.5.1.4.2","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.3","iso.3.6.1.2.1.55.1.5.1.4.3","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.4","iso.3.6.1.2.1.55.1.5.1.4.4","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.5","iso.3.6.1.2.1.55.1.5.1.4.5","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.6","iso.3.6.1.2.1.55.1.5.1.4.6","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.7","iso.3.6.1.2.1.55.1.5.1.4.7","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.8","iso.3.6.1.2.1.55.1.5.1.4.8","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.9","iso.3.6.1.2.1.55.1.5.1.4.9","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.10","iso.3.6.1.2.1.55.1.5.1.4.10","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.11","iso.3.6.1.2.1.55.1.5.1.4.11","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.180","iso.3.6.1.2.1.55.1.5.1.4.180","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.181","iso.3.6.1.2.1.55.1.5.1.4.181","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.186","iso.3.6.1.2.1.55.1.5.1.4.186","Gauge32",1500
+"IPV6-MIB::ipv6IfEffectiveMtu.187","iso.3.6.1.2.1.55.1.5.1.4.187","Gauge32",1500
+"IPV6-MIB::ipv6IfReasmMaxSize.1","iso.3.6.1.2.1.55.1.5.1.5.1","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.2","iso.3.6.1.2.1.55.1.5.1.5.2","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.3","iso.3.6.1.2.1.55.1.5.1.5.3","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.4","iso.3.6.1.2.1.55.1.5.1.5.4","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.5","iso.3.6.1.2.1.55.1.5.1.5.5","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.6","iso.3.6.1.2.1.55.1.5.1.5.6","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.7","iso.3.6.1.2.1.55.1.5.1.5.7","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.8","iso.3.6.1.2.1.55.1.5.1.5.8","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.9","iso.3.6.1.2.1.55.1.5.1.5.9","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.10","iso.3.6.1.2.1.55.1.5.1.5.10","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.11","iso.3.6.1.2.1.55.1.5.1.5.11","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.180","iso.3.6.1.2.1.55.1.5.1.5.180","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.181","iso.3.6.1.2.1.55.1.5.1.5.181","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.186","iso.3.6.1.2.1.55.1.5.1.5.186","Gauge32",65535
+"IPV6-MIB::ipv6IfReasmMaxSize.187","iso.3.6.1.2.1.55.1.5.1.5.187","Gauge32",65535
+"IPV6-MIB::ipv6IfIdentifier.1","iso.3.6.1.2.1.55.1.5.1.6.1","Hex-STRING","Hex-00 00 00 01"
+"IPV6-MIB::ipv6IfIdentifier.2","iso.3.6.1.2.1.55.1.5.1.6.2","Hex-STRING","Hex-00 00 00 02"
+"IPV6-MIB::ipv6IfIdentifier.3","iso.3.6.1.2.1.55.1.5.1.6.3","Hex-STRING","Hex-00 00 00 03"
+"IPV6-MIB::ipv6IfIdentifier.4","iso.3.6.1.2.1.55.1.5.1.6.4","Hex-STRING","Hex-00 00 00 04"
+"IPV6-MIB::ipv6IfIdentifier.5","iso.3.6.1.2.1.55.1.5.1.6.5","Hex-STRING","Hex-00 00 00 05"
+"IPV6-MIB::ipv6IfIdentifier.6","iso.3.6.1.2.1.55.1.5.1.6.6","Hex-STRING","Hex-00 00 00 06"
+"IPV6-MIB::ipv6IfIdentifier.7","iso.3.6.1.2.1.55.1.5.1.6.7","Hex-STRING","Hex-00 00 00 07"
+"IPV6-MIB::ipv6IfIdentifier.8","iso.3.6.1.2.1.55.1.5.1.6.8","Hex-STRING","Hex-00 00 00 08"
+"IPV6-MIB::ipv6IfIdentifier.9","iso.3.6.1.2.1.55.1.5.1.6.9","Hex-STRING","Hex-00 00 00 09"
+"IPV6-MIB::ipv6IfIdentifier.10","iso.3.6.1.2.1.55.1.5.1.6.10","Hex-STRING","Hex-00 00 00 0A"
+"IPV6-MIB::ipv6IfIdentifier.11","iso.3.6.1.2.1.55.1.5.1.6.11","Hex-STRING","Hex-00 00 00 0B"
+"IPV6-MIB::ipv6IfIdentifier.180","iso.3.6.1.2.1.55.1.5.1.6.180","Hex-STRING","Hex-00 00 00 B4"
+"IPV6-MIB::ipv6IfIdentifier.181","iso.3.6.1.2.1.55.1.5.1.6.181","Hex-STRING","Hex-00 00 00 B5"
+"IPV6-MIB::ipv6IfIdentifier.186","iso.3.6.1.2.1.55.1.5.1.6.186","Hex-STRING","Hex-00 00 00 BA"
+"IPV6-MIB::ipv6IfIdentifier.187","iso.3.6.1.2.1.55.1.5.1.6.187","Hex-STRING","Hex-00 00 00 BB"
+"IPV6-MIB::ipv6IfIdentifierLength.1","iso.3.6.1.2.1.55.1.5.1.7.1","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.2","iso.3.6.1.2.1.55.1.5.1.7.2","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.3","iso.3.6.1.2.1.55.1.5.1.7.3","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.4","iso.3.6.1.2.1.55.1.5.1.7.4","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.5","iso.3.6.1.2.1.55.1.5.1.7.5","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.6","iso.3.6.1.2.1.55.1.5.1.7.6","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.7","iso.3.6.1.2.1.55.1.5.1.7.7","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.8","iso.3.6.1.2.1.55.1.5.1.7.8","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.9","iso.3.6.1.2.1.55.1.5.1.7.9","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.10","iso.3.6.1.2.1.55.1.5.1.7.10","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.11","iso.3.6.1.2.1.55.1.5.1.7.11","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.180","iso.3.6.1.2.1.55.1.5.1.7.180","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.181","iso.3.6.1.2.1.55.1.5.1.7.181","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.186","iso.3.6.1.2.1.55.1.5.1.7.186","INTEGER",32
+"IPV6-MIB::ipv6IfIdentifierLength.187","iso.3.6.1.2.1.55.1.5.1.7.187","INTEGER",32
+"IPV6-MIB::ipv6IfPhysicalAddress.1","iso.3.6.1.2.1.55.1.5.1.8.1","Hex-STRING","Hex-64 D1 54 43 88 97"
+"IPV6-MIB::ipv6IfPhysicalAddress.2","iso.3.6.1.2.1.55.1.5.1.8.2","Hex-STRING","Hex-64 D1 54 43 88 90"
+"IPV6-MIB::ipv6IfPhysicalAddress.3","iso.3.6.1.2.1.55.1.5.1.8.3","Hex-STRING","Hex-64 D1 54 43 88 91"
+"IPV6-MIB::ipv6IfPhysicalAddress.4","iso.3.6.1.2.1.55.1.5.1.8.4","Hex-STRING","Hex-64 D1 54 43 88 92"
+"IPV6-MIB::ipv6IfPhysicalAddress.5","iso.3.6.1.2.1.55.1.5.1.8.5","Hex-STRING","Hex-64 D1 54 43 88 93"
+"IPV6-MIB::ipv6IfPhysicalAddress.6","iso.3.6.1.2.1.55.1.5.1.8.6","Hex-STRING","Hex-64 D1 54 43 88 94"
+"IPV6-MIB::ipv6IfPhysicalAddress.7","iso.3.6.1.2.1.55.1.5.1.8.7","Hex-STRING","Hex-64 D1 54 43 88 95"
+"IPV6-MIB::ipv6IfPhysicalAddress.8","iso.3.6.1.2.1.55.1.5.1.8.8","Hex-STRING","Hex-64 D1 54 43 88 96"
+"IPV6-MIB::ipv6IfPhysicalAddress.9","iso.3.6.1.2.1.55.1.5.1.8.9","Hex-STRING","Hex-64 D1 54 43 88 91"
+"IPV6-MIB::ipv6IfPhysicalAddress.10","iso.3.6.1.2.1.55.1.5.1.8.10","Hex-STRING","Hex-64 D1 54 43 88 97"
+"IPV6-MIB::ipv6IfPhysicalAddress.11","iso.3.6.1.2.1.55.1.5.1.8.11","Hex-STRING","Hex-64 D1 54 43 88 96"
+"IPV6-MIB::ipv6IfPhysicalAddress.180","iso.3.6.1.2.1.55.1.5.1.8.180","Hex-STRING","Hex-B8 69 F4 D6 5F 71"
+"IPV6-MIB::ipv6IfPhysicalAddress.181","iso.3.6.1.2.1.55.1.5.1.8.181","Hex-STRING","Hex-B8 69 F4 D6 5F 70"
+"IPV6-MIB::ipv6IfPhysicalAddress.186","iso.3.6.1.2.1.55.1.5.1.8.186","Hex-STRING","Hex-CC 2D E0 1D 26 A3"
+"IPV6-MIB::ipv6IfPhysicalAddress.187","iso.3.6.1.2.1.55.1.5.1.8.187","Hex-STRING","Hex-CC 2D E0 1D 26 A2"
+"IPV6-MIB::ipv6IfAdminStatus.1","iso.3.6.1.2.1.55.1.5.1.9.1","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.2","iso.3.6.1.2.1.55.1.5.1.9.2","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.3","iso.3.6.1.2.1.55.1.5.1.9.3","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.4","iso.3.6.1.2.1.55.1.5.1.9.4","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.5","iso.3.6.1.2.1.55.1.5.1.9.5","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.6","iso.3.6.1.2.1.55.1.5.1.9.6","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.7","iso.3.6.1.2.1.55.1.5.1.9.7","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.8","iso.3.6.1.2.1.55.1.5.1.9.8","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.9","iso.3.6.1.2.1.55.1.5.1.9.9","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.10","iso.3.6.1.2.1.55.1.5.1.9.10","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.11","iso.3.6.1.2.1.55.1.5.1.9.11","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.180","iso.3.6.1.2.1.55.1.5.1.9.180","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.181","iso.3.6.1.2.1.55.1.5.1.9.181","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.186","iso.3.6.1.2.1.55.1.5.1.9.186","INTEGER",1
+"IPV6-MIB::ipv6IfAdminStatus.187","iso.3.6.1.2.1.55.1.5.1.9.187","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.1","iso.3.6.1.2.1.55.1.5.1.10.1","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.2","iso.3.6.1.2.1.55.1.5.1.10.2","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.3","iso.3.6.1.2.1.55.1.5.1.10.3","INTEGER",2
+"IPV6-MIB::ipv6IfOperStatus.4","iso.3.6.1.2.1.55.1.5.1.10.4","INTEGER",2
+"IPV6-MIB::ipv6IfOperStatus.5","iso.3.6.1.2.1.55.1.5.1.10.5","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.6","iso.3.6.1.2.1.55.1.5.1.10.6","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.7","iso.3.6.1.2.1.55.1.5.1.10.7","INTEGER",2
+"IPV6-MIB::ipv6IfOperStatus.8","iso.3.6.1.2.1.55.1.5.1.10.8","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.9","iso.3.6.1.2.1.55.1.5.1.10.9","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.10","iso.3.6.1.2.1.55.1.5.1.10.10","INTEGER",2
+"IPV6-MIB::ipv6IfOperStatus.11","iso.3.6.1.2.1.55.1.5.1.10.11","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.180","iso.3.6.1.2.1.55.1.5.1.10.180","INTEGER",2
+"IPV6-MIB::ipv6IfOperStatus.181","iso.3.6.1.2.1.55.1.5.1.10.181","INTEGER",1
+"IPV6-MIB::ipv6IfOperStatus.186","iso.3.6.1.2.1.55.1.5.1.10.186","INTEGER",2
+"IPV6-MIB::ipv6IfOperStatus.187","iso.3.6.1.2.1.55.1.5.1.10.187","INTEGER",1
+"IPV6-MIB::ipv6IfLastChange.1","iso.3.6.1.2.1.55.1.5.1.11.1","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.2","iso.3.6.1.2.1.55.1.5.1.11.2","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.3","iso.3.6.1.2.1.55.1.5.1.11.3","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.4","iso.3.6.1.2.1.55.1.5.1.11.4","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.5","iso.3.6.1.2.1.55.1.5.1.11.5","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.6","iso.3.6.1.2.1.55.1.5.1.11.6","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.7","iso.3.6.1.2.1.55.1.5.1.11.7","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.8","iso.3.6.1.2.1.55.1.5.1.11.8","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.9","iso.3.6.1.2.1.55.1.5.1.11.9","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.10","iso.3.6.1.2.1.55.1.5.1.11.10","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.11","iso.3.6.1.2.1.55.1.5.1.11.11","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.180","iso.3.6.1.2.1.55.1.5.1.11.180","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.181","iso.3.6.1.2.1.55.1.5.1.11.181","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.186","iso.3.6.1.2.1.55.1.5.1.11.186","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6IfLastChange.187","iso.3.6.1.2.1.55.1.5.1.11.187","Timeticks","(0) 0:00:00.00"
+"IPV6-MIB::ipv6AddrAddress.2.' ..X`...)W.s7...'","iso.3.6.1.2.1.55.1.8.1.1.2.32.1.5.88.96.7.0.28.41.87.190.115.55.168.17.156","Hex-STRING","Hex-20 01 05 58 60 07 00 1C 29 57 BE 73 37 A8 11 9C"
+"IPV6-MIB::ipv6AddrAddress.2.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.1.2.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.144","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 66 D1 54 FF FE 43 88 90"
+"IPV6-MIB::ipv6AddrAddress.9.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.1.9.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.145","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 66 D1 54 FF FE 43 88 91"
+"IPV6-MIB::ipv6AddrAddress.10.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.1.10.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.151","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 66 D1 54 FF FE 43 88 97"
+"IPV6-MIB::ipv6AddrAddress.11.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.1.11.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.150","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 66 D1 54 FF FE 43 88 96"
+"IPV6-MIB::ipv6AddrAddress.180.'.........i...._q'","iso.3.6.1.2.1.55.1.8.1.1.180.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.113","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 BA 69 F4 FF FE D6 5F 71"
+"IPV6-MIB::ipv6AddrAddress.181.'.........i...._p'","iso.3.6.1.2.1.55.1.8.1.1.181.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.112","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 BA 69 F4 FF FE D6 5F 70"
+"IPV6-MIB::ipv6AddrAddress.186.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.1.186.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.163","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 CE 2D E0 FF FE 1D 26 A3"
+"IPV6-MIB::ipv6AddrAddress.187.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.1.187.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.162","Hex-STRING","Hex-FE 80 00 00 00 00 00 00 CE 2D E0 FF FE 1D 26 A2"
+"IPV6-MIB::ipv6AddrPfxLength.2.' ..X`...)W.s7...'","iso.3.6.1.2.1.55.1.8.1.2.2.32.1.5.88.96.7.0.28.41.87.190.115.55.168.17.156","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.2.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.2.2.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.144","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.9.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.2.9.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.145","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.10.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.2.10.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.151","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.11.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.2.11.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.150","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.180.'.........i...._q'","iso.3.6.1.2.1.55.1.8.1.2.180.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.113","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.181.'.........i...._p'","iso.3.6.1.2.1.55.1.8.1.2.181.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.112","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.186.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.2.186.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.163","INTEGER",64
+"IPV6-MIB::ipv6AddrPfxLength.187.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.2.187.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.162","INTEGER",64
+"IPV6-MIB::ipv6AddrType.2.' ..X`...)W.s7...'","iso.3.6.1.2.1.55.1.8.1.3.2.32.1.5.88.96.7.0.28.41.87.190.115.55.168.17.156","INTEGER",2
+"IPV6-MIB::ipv6AddrType.2.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.3.2.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.144","INTEGER",1
+"IPV6-MIB::ipv6AddrType.9.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.3.9.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.145","INTEGER",1
+"IPV6-MIB::ipv6AddrType.10.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.3.10.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.151","INTEGER",1
+"IPV6-MIB::ipv6AddrType.11.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.3.11.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.150","INTEGER",1
+"IPV6-MIB::ipv6AddrType.180.'.........i...._q'","iso.3.6.1.2.1.55.1.8.1.3.180.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.113","INTEGER",1
+"IPV6-MIB::ipv6AddrType.181.'.........i...._p'","iso.3.6.1.2.1.55.1.8.1.3.181.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.112","INTEGER",1
+"IPV6-MIB::ipv6AddrType.186.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.3.186.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.163","INTEGER",1
+"IPV6-MIB::ipv6AddrType.187.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.3.187.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.162","INTEGER",1
+"IPV6-MIB::ipv6AddrAnycastFlag.2.' ..X`...)W.s7...'","iso.3.6.1.2.1.55.1.8.1.4.2.32.1.5.88.96.7.0.28.41.87.190.115.55.168.17.156","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.2.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.4.2.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.144","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.9.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.4.9.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.145","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.10.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.4.10.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.151","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.11.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.4.11.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.150","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.180.'.........i...._q'","iso.3.6.1.2.1.55.1.8.1.4.180.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.113","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.181.'.........i...._p'","iso.3.6.1.2.1.55.1.8.1.4.181.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.112","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.186.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.4.186.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.163","INTEGER",0
+"IPV6-MIB::ipv6AddrAnycastFlag.187.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.4.187.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.162","INTEGER",0
+"IPV6-MIB::ipv6AddrStatus.2.' ..X`...)W.s7...'","iso.3.6.1.2.1.55.1.8.1.5.2.32.1.5.88.96.7.0.28.41.87.190.115.55.168.17.156","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.2.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.5.2.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.144","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.9.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.5.9.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.145","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.10.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.5.10.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.151","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.11.'........f.T..C..'","iso.3.6.1.2.1.55.1.8.1.5.11.254.128.0.0.0.0.0.0.102.209.84.255.254.67.136.150","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.180.'.........i...._q'","iso.3.6.1.2.1.55.1.8.1.5.180.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.113","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.181.'.........i...._p'","iso.3.6.1.2.1.55.1.8.1.5.181.254.128.0.0.0.0.0.0.186.105.244.255.254.214.95.112","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.186.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.5.186.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.163","INTEGER",1
+"IPV6-MIB::ipv6AddrStatus.187.'.........-....&.'","iso.3.6.1.2.1.55.1.8.1.5.187.254.128.0.0.0.0.0.0.206.45.224.255.254.29.38.162","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.1.1.0","iso.3.6.1.2.1.9999.1.1.1.1.0","STRING","MikroTik DHCP server"
+"SNMPv2-SMI::mib-2.9999.1.1.1.2.0","iso.3.6.1.2.1.9999.1.1.1.2.0","OID","iso.3.6.1.4.1.14988.1"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.2","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.2","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.3","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.3","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.4","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.4","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.5","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.5","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.6","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.6","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.7","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.7","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.8","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.8","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.9","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.9","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.10","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.10","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.11","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.11","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.12","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.12","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.13","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.13","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.16","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.16","INTEGER",2
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.17","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.17","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.18","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.18","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.19","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.19","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.20","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.20","INTEGER",2
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.23","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.23","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.27","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.27","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.29","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.29","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.34","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.34","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.37","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.37","INTEGER",2
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.38","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.38","INTEGER",2
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.39","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.39","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.44","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.44","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.46","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.46","INTEGER",2
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.47","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.47","INTEGER",2
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.4.10.46.0.52","iso.3.6.1.2.1.9999.1.1.6.4.1.4.10.46.0.52","INTEGER",2
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.2","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.2","Gauge32",4294967295
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.3","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.3","Gauge32",4294967295
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.4","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.4","Gauge32",583449
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.5","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.5","Gauge32",555279
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.6","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.6","Gauge32",582471
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.7","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.7","Gauge32",557200
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.8","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.8","Gauge32",559790
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.9","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.9","Gauge32",588290
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.10","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.10","Gauge32",581726
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.11","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.11","Gauge32",581687
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.12","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.12","Gauge32",582471
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.13","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.13","Gauge32",596150
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.16","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.16","Gauge32",560247
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.17","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.17","Gauge32",484602
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.18","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.18","Gauge32",4294967295
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.19","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.19","Gauge32",582472
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.20","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.20","Gauge32",578532
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.23","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.23","Gauge32",525196
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.27","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.27","Gauge32",604415
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.29","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.29","Gauge32",603561
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.34","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.34","Gauge32",603507
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.37","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.37","Gauge32",447494
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.38","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.38","Gauge32",588251
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.39","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.39","Gauge32",523327
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.44","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.44","Gauge32",585314
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.46","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.46","Gauge32",603417
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.47","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.47","Gauge32",582791
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.5.10.46.0.52","iso.3.6.1.2.1.9999.1.1.6.4.1.5.10.46.0.52","Gauge32",327343
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.2","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.2","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.3","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.3","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.4","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.4","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.5","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.5","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.6","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.6","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.7","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.7","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.8","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.8","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.9","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.9","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.10","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.10","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.11","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.11","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.12","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.12","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.13","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.13","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.16","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.16","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.17","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.17","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.18","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.18","INTEGER",1
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.19","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.19","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.20","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.20","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.23","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.23","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.27","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.27","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.29","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.29","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.34","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.34","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.37","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.37","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.38","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.38","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.39","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.39","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.44","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.44","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.46","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.46","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.47","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.47","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.7.10.46.0.52","iso.3.6.1.2.1.9999.1.1.6.4.1.7.10.46.0.52","INTEGER",3
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.2","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.2","Hex-STRING","Hex-01 06 B8 69 F4 D6 5F 6B"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.3","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.3","Hex-STRING","Hex-01 06 CC 2D E0 1D 26 A3"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.4","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.4","Hex-STRING","Hex-01 06 1C F2 9A 74 E9 EF"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.5","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.5","Hex-STRING","Hex-01 06 54 60 09 3F BE 22"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.6","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.6","Hex-STRING","Hex-01 06 00 F6 20 46 A1 63"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.7","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.7","Hex-STRING","Hex-01 06 44 07 0B A0 C8 C7"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.8","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.8","Hex-STRING","Hex-01 06 44 07 0B E2 73 3D"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.9","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.9","Hex-STRING","Hex-01 06 A0 D3 C1 0B C4 15"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.10","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.10","Hex-STRING","Hex-01 06 A0 48 1C A9 AA 1F"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.11","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.11","Hex-STRING","Hex-01 06 A0 D3 C1 0A C2 53"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.12","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.12","Hex-STRING","Hex-01 06 20 DF B9 40 3F A2"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.13","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.13","Hex-STRING","Hex-01 06 9C 5A 44 9F 6D 42"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.16","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.16","Hex-STRING","Hex-01 06 10 AE 60 73 80 5D"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.17","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.17","Hex-STRING","Hex-01 06 44 00 49 5F 47 FC"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.18","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.18","Hex-STRING","Hex-01 06 00 19 BB EA 3A C9"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.19","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.19","Hex-STRING","Hex-01 06 B0 52 16 1E 8C 18"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.20","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.20","Hex-STRING","Hex-01 06 94 53 30 B3 83 75"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.23","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.23","Hex-STRING","Hex-01 06 78 F8 82 EF 12 47"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.27","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.27","Hex-STRING","Hex-01 06 3C 5C C4 A2 C5 F2"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.29","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.29","Hex-STRING","Hex-01 06 40 4E 36 D4 EF 6E"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.34","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.34","Hex-STRING","Hex-01 06 00 AE FA FC 82 91"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.37","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.37","Hex-STRING","Hex-01 06 DC A9 04 93 20 00"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.38","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.38","Hex-STRING","Hex-01 06 A8 1E 84 4E D3 12"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.39","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.39","Hex-STRING","Hex-01 06 DC 74 A8 12 06 B0"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.44","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.44","Hex-STRING","Hex-01 06 44 09 B8 2E 42 0B"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.46","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.46","Hex-STRING","Hex-01 06 0C CB 85 14 EA 1A"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.47","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.47","Hex-STRING","Hex-01 06 9C B7 0D D4 CE 84"
+"SNMPv2-SMI::mib-2.9999.1.1.6.4.1.8.10.46.0.52","iso.3.6.1.2.1.9999.1.1.6.4.1.8.10.46.0.52","Hex-STRING","Hex-01 06 98 E7 F4 5F 35 A7"
